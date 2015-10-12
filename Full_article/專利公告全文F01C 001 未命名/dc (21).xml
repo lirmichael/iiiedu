@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification lang="tw" receive-num="-" receive-date=" " dtd-version="1.0.0" application-num="094145948" status="p" produced-by="applicant">
+<abstract lang="tw">
+<abstract-dtext>
+<p id="_0001" general="n">本發明係提供一種爪式轉子之單爪設計方法，該方法以參數化設計出相互共軛囓合的定義轉子與共軛轉子，包含：由曲線E、圓弧A、圓弧B、圓弧F、圓弧C、圓弧H，及直線Y，以及圓弧G等組成的定義轉子之單爪外形曲線，其特徵在於：該圓弧H為相對於定義轉子的圓心之圓弧C相對弧線，而該圓弧G的圓心為定義轉子的圓心，其半徑為圓心至圓弧H外側端點的距離，其兩端點適可平滑的連接於圓弧C與圓弧H的外側端點，藉該方法所取得的單爪轉子，當運用於須進行膨脹、壓縮週期性循環運動的機械上，能提高壓縮比與輸送容積，且在運轉的過程不會有噪音與震動的產生。
+</p>
+</abstract-dtext>
+</abstract>
+<description>
+<invention-title lang="tw">爪式轉子之單爪設計方法
+</invention-title>
+<technical-field>
+<p id="_0002" general="0001">本發明係關於一種爪式轉子之單爪及雙爪設計方法，其係為台灣發明專利申請案第94124780號(美國發明專利申請第11/214,876號)的追加專利申請，該方法能以參數化取得相互共軛囓合的定義轉子與共軛轉子之單爪或雙爪，且能以不同參數定義並評估求出最佳共軛囓合的轉子性能，藉以提供具有較高壓縮比與輸送容積，及使得工作腔室膨脹、壓縮運動過程順暢、降低洩漏，而於轉子運動過程不會產生噪音及震動之效果。
+</p>
+</technical-field>
+<background-art>
+<p id="_0003" general="0002">按，習知有關爪式轉子的構造可參考美國專利案第1,426,820、4,138,848、4,224.016、4,324,538、4,406,601、4,430,050以及5,149,256號等。該等習知爪式轉子的構造共同的瑕疵在於爪式轉子的兩爪曲線在尖部形成不連續，因而，當運用於須進行膨脹、壓縮週期性循環運動的機械上，該定義轉子、共軛轉子及腔壁間之工作腔室，藉由兩轉子囓合轉動產生之膨脹壓縮過程，兩爪會在該尖部運轉不順暢，而會有噪音與震動的現象產生。簡言之，習知爪式轉子的兩爪在尖部之曲線不順暢，將造成兩爪相互囓合性不佳，而在膨脹壓縮過程產生噪音與震動，或造成因不當的囓合所產生的摩耗，而降低使用壽命。
+</p>
+<p id="_0004" general="0003">鑒於此，前台灣發明專利申請案第94124780號(美國發明專利申請第11/214,876號)已揭露一種能夠藉不同參數定義取得相互囓合的定義轉子與共軛轉子，當運用於須進行膨脹、壓縮週期性循環運動的機械上，於膨脹壓縮過程藉不同線形作平滑連接，可以解決在運轉的過程會有噪音與震動的現象。
+</p>
+</background-art>
+<disclosure>
+<p id="_0005" general="0004">本發明之目的，在於提供一種爪式轉子之單爪設計方法，該方法除能以參數化取得相互共軛囓合的定義轉子與共軛轉子之單爪，且，依該方法所設計出的單爪，當運用於須進行膨脹、壓縮週期性循環運動的機械上，能提高壓縮比與輸送容積，且在運轉的過程不會有噪音與震動的產生。
+</p>
+<p id="_0006" general="0005">本發明爪式轉子之單爪設計方法係包含：曲線E、圓弧A、圓弧B、圓弧F、圓弧C、圓弧H，及直線Y，以及圓弧G等定義轉子之單爪外形曲線，其特徵在於：其中該圓弧H的圓心(t5)為圓弧C的圓心(t4)相對於定義轉子的圓心(t1)之對稱點，而半徑與圓弧C的半徑(r<sub>c</sub>)相同，該圓弧H之圓心(t5)的一端點(P<sub>6</sub>)在其垂直上方，另一點端(P<sub>9</sub>)位於通過圓心t5與t4之直線與圓弧C交點(P<sub>8</sub>)，由該交點(P<sub>8</sub>)相對於定義轉子的圓心(t1)之對稱點位置。
+</p>
+<p id="_0007" general="0006">又，本發明爪式轉子之單爪設計方法再一特徵，在於圓弧G的圓心為定義轉子的圓心(t1)，而半徑為圓心(t1)至圓弧H外側端點(P<sub>9</sub>)的距離，其兩端點(P<sub>9</sub>,P<sub>5</sub>)適為圓弧C與圓弧H的外側端點，可平滑的使圓弧G、圓弧C及圓弧H連接一起，而取得單爪的定義轉子。
+</p>
+</disclosure>
+<mode-for-invention>
+<p id="_0008" general="0007">請參閱第一、二圖為本發明爪式轉子之單爪設計方法，圖上說明取得單爪之定義轉子1與共軛轉子2，以先取得定義轉子1的單爪外形，再以其軛曲線取得共軛轉子2的單爪外形，如圖所示，該定義轉子1的單爪外形取得包括如下步驟：
+</p>
+<p id="_0009" general="0008">1.請參閱第一圖，指定定義轉子最大半徑R=60mm、定義轉子寬度D=50mm、定義轉子及共軛轉子之節圓半徑Rp=40mm(定義轉子最大半徑R與節圓半徑Rp之比例為R=3Rp/2)，二節圓之圓心分別為t1及t3。
+</p>
+<p id="_0010" general="0009">2.取節圓之圓心t1作為定義轉子的圓心，通過一水平線h1，並在該水平線h1上取得一點P<sub>0</sub>，此點P<sub>0</sub>與圓心t1之水平距離為R，由該點P<sub>0</sub>繞節圓圓心t1產生共軛曲線E’，曲線E’相對於節圓交點P<sub>7</sub>之對稱曲線E，如第二圖，取該曲線E作為轉子的葉片一部份。該曲線E在水平線h1上的交點P<sub>3</sub>。
+</p>
+<p id="_0011" general="0010">3.定義轉子外形曲線的另一點P<sub>1</sub>，由定義轉子圓心t1以半徑R及所指定之圓心角α(a=3°)決定。連接點P<sub>0</sub>與P<sub>1</sub>可取得圓弧A。
+</p>
+<p id="_0012" general="0011">4.取圓心角α的夾邊h2，且在該夾邊h2上取得一圓心點t2，半徑為r<sub>B</sub>。
+</p>
+<p id="_0013" general="0012">5.該半徑r<sub>B</sub>由如下求得：(其中R=定義轉子的最大半徑；即圓心t1至點P<sub>1</sub>的長度)
+</p>
+<p id="_0014" general="0013">
+<maths num="1">
+<img id="i0001" he="292" wi="604" file="img-2/math/drawimg-20080411-102622-00000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="yes"/>
+</maths>
+</p>
+<p id="_0015" general="0014">6.求得半徑r<sub>B</sub>再以圓心t2為圓心，取得圓弧B，該圓弧B的一端點即為點P<sub>1</sub>，另一端點為點P<sub>2</sub>，該點在圓心t2上方之垂直位置，該圓弧B即為定義轉子的外形曲線之另一部份。
+</p>
+<p id="_0016" general="0015">7.再以節圓圓心t3為圓心，定義轉子的最大半徑R為半徑，取得圓弧F，該圓弧F的兩端點分別在點P<sub>3</sub>，及與所指定圓心角β(β=6°)之夾邊h3的交接點P<sub>4</sub>。
+</p>
+<p id="_0017" general="0016">8.以點P<sub>4</sub>為圓弧C的一個端點，並在該圓心角β的夾邊h3上取得圓心點t4，並以半徑r<sub>c</sub>為半徑。
+</p>
+<p id="_0018" general="0017">9.該半徑r<sub>c</sub>由如下求得：(其中R=定義轉子的最大半徑：即圓心t3至點P<sub>4</sub>的長度)
+</p>
+<p id="_0019" general="0018">
+<maths num="2">
+<img id="i0002" he="275" wi="628" file="img-2/math/drawimg-20080411-102622-00001.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="yes"/>
+</maths>
+</p>
+<p id="_0020" general="0019">10.求得半徑r<sub>c</sub>再以圓心t4為圓心，則可取得兩端點為點P<sub>4</sub>與點P<sub>5</sub>的圓弧C作為定義轉子的外形曲線之另一部份，其中點P<sub>5</sub>在圓心t4下方之垂直位置。
+</p>
+<p id="_0021" general="0020">11.再，以圓弧C的圓心t4相對於定義轉子的圓心t1之對稱點，作為圓弧H的圓心t5，並以圓弧C的半徑r<sub>C</sub>為半徑，該圓弧H的兩端點，一端點P<sub>6</sub>在該圓心t5的垂直上方(即點P<sub>5</sub>相對於圓心t1的對稱點)，另一端點P<sub>9</sub>位於通過圓心t5與t4之延伸直線上，為該延伸直線與圓弧C交點P<sub>8</sub>相對於定義轉子的圓心t1之對稱點位置。
+</p>
+<p id="_0022" general="0021">12.連接點P<sub>2</sub>及點P<sub>6</sub>形成水平直線Y。
+</p>
+<p id="_0023" general="0022">13.最後，以定義轉子的圓心t1作為圓弧G的圓心，並從該圓心t1至圓弧H外側端點P<sub>9</sub>的距離作為半徑，圓弧G的兩端點P<sub>5</sub>與P<sub>9</sub>，即為圓弧C與圓弧H的外側端點P<sub>5</sub>與點P<sub>9</sub>，可平滑使圓弧G、圓弧C及圓弧H連接一起。因此，連接上述之曲線E、圓弧A、圓弧B、圓弧F、圓弧C、圓弧H，及直線Y，以及圓弧G等即可取得定義轉子之單爪外形曲線。
+</p>
+<p id="_0024" general="0023">另，該共軛轉子係利用上述步驟決定定義轉子1之單爪之外形曲線後，再由定義轉子中各定義曲線之共軛曲線組成共軛轉子2之雙爪外形(第三圖)。是以，藉由上述的步驟，可取得具有單爪的定義轉子1與共軛轉子2。
+</p>
+<p id="_0025" general="0024">續請參閱第四圖為本發明雙爪式轉子之設計方法，其中定義轉子最大半徑R採60mm、節圓半徑Rp採40mm、定義轉子寬度D值分別採50,55,60mm、圓心角α為3度、圓心角β為6度的單爪應用例，如圖所示在如是條件下，定義轉子1與共軛轉子2的外形變化，依共軛囓合的特性，該定義轉子1’的寬度D值最較小者(S1)，所對應的共軛轉子2’的外形是為最大者(L1)，如此類推，實際應用上可以視需要作對應的調整。
+</p>
+<p id="_0026" general="0025">職是藉本發明的方法所製出的單爪之定義轉子與共軛轉子，當運用於須進行膨脹、壓縮週期性循環運動的機械上，在相互囓合運轉的過程因為以不同曲線經平滑連接，因此，能夠使得兩轉子不會有噪音與震動的現象產生，且，更能夠提高壓縮比與輸送容積。
+</p>
+<p id="_0027" general="0026">綜上所述，本發明爪式轉子之單爪設計方法確能達到創作之目的，符合發明專利要件，惟，以上所述者僅為本發明之較佳實施例而已，大凡依據本發明所為之各種修飾與變化，仍應包含於本案專利申請範圍內。
+</p>
+</mode-for-invention>
+<description-of-drawings>
+<description-of-element>
+<p id="_0028" general="0027">1,1’．．．定義轉子
+</p>
+<p id="_0029" general="0028">2,2’．．．共軛轉子
+</p>
+<p id="_0030" general="0029">R．．．最大半徑
+</p>
+<p id="_0031" general="0030">D．．．定義轉子寬度
+</p>
+<p id="_0032" general="0031">Rp．．．節圓半徑
+</p>
+<p id="_0033" general="0032">Y．．．直線
+</p>
+<p id="_0034" general="0033">t1,t2,t3,t4．．．圓心
+</p>
+<p id="_0035" general="0034">h1,h2．．．水平線
+</p>
+<p id="_0036" general="0035">P<sub>0</sub>,P<sub>1</sub>,P<sub>2</sub>,P<sub>3</sub>,P<sub>4</sub>,P<sub>5</sub>,P<sub>6</sub>,P<sub>7</sub>,P<sub>8</sub>,P<sub>9</sub>．．．點
+</p>
+<p id="_0037" general="0036">α,β．．．圓心角
+</p>
+<p id="_0038" general="0037">γ<sub>B</sub>,γ<sub>C</sub>．．．半徑
+</p>
+<p id="_0039" general="0038">E,E’．．．曲線
+</p>
+<p id="_0040" general="0039">A,B,C,F,H,G．．．圓弧
+</p>
+</description-of-element>
+<p id="_0041" general="0040">第一圖為本發明爪式轉子之單爪設計方法形成端點共軛曲線的示意圖。
+</p>
+<p id="_0042" general="0041">第二圖為本發明爪式轉子之單爪設計方法形成定義轉子之單爪外形的示意圖。
+</p>
+<p id="_0043" general="0042">第三圖為本發明爪式轉子之單爪設計方法形成共軛轉子之單爪外形的示意圖。
+</p>
+<p id="_0044" general="0043">第四圖為本發明爪式轉子之單爪設計方法中定義轉子的厚度D分別為50,55,60mm；圓心角α為3度、圓心角β為6度時，定義轉子與共軛轉子之雙爪外形變化的示意圖。
+</p>
+</description-of-drawings>
+</description>
+<claims>
+<claim dependency="independent-claim">
+<claim-text>一種爪式轉子之單爪設計方法，該方法用於製造相互共軛囓合的定義轉子與共軛轉子，以參數化設計出包含曲線E、圓弧A、圓弧B、圓弧F、圓弧C、圓弧H，及直線Y，以及圓弧G等定義轉子之單爪外形曲線，再由單爪的定義轉子中各定義曲線之共軛曲線組成單爪的共軛轉子，其中取得該定義轉子的單爪外形曲線的方法包括：指定定義轉子最大半徑R、定義轉子的寬度D、定義轉子與共軛轉子之節圓半徑Rp及此二節圓之圓心t1,t3，此二節圓中心距為2Rp，Rp小於R，且R與Rp二者有一適當比例；取節圓之圓心t1作為定義轉子的圓心，通過另一節圓之圓心t3作水平線h1，並在該水平線h1上取得一點P<sub>0</sub>，該點P<sub>0</sub>與圓心t1之水平距離為定義轉子最大半徑R，由該點P<sub>0</sub>繞節圓圓心t1產生共軛曲線E’，曲線E’相對於二節圓交點P<sub>7</sub>之對稱曲線E，取此曲線E作為轉子的葉片一部份，該曲線E在水平線h1上取得交點P<sub>3</sub>；由該水平線h1及定義轉子圓心t1，半徑為R的圓心角α，決定定義轉子運動曲線的另一點P<sub>1</sub>，連接前述點P<sub>0</sub>與P<sub>1</sub>可取得定義轉子的葉片外形曲線之圓弧A，且與曲線E平順連接；於該圓心角α的夾邊h2上取得第二圓心點t2，並經由如下公式求得第二圓心點t2的半徑r<sub>B</sub>，即：
+<maths num="3">
+<img id="i0003" he="286" wi="598" file="img-2/math/drawimg-20080411-102756-00000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="yes"/>
+</maths>以點P<sub>1</sub>作為圓弧B的一端點，依半徑r<sub>B</sub>取得一圓弧B並以第二圓心點t2上方之垂直位置獲得該圓弧B的另一端點P<sub>2</sub>，圓弧B即為定義轉子的葉片外形曲線一部份；以節圓圓心t3為圓心，定義轉子的最大半徑R為半徑，取得圓弧F，該圓弧F的兩端點分別在點P<sub>3</sub>，及與所指定圓心角β之夾邊h3的交接點P<sub>4</sub>；取點P<sub>4</sub>為圓弧C的一個端點，並在該圓心角β的夾邊h3上取得圓心點t4，並以半徑r<sub>C</sub>為半徑，另一端點P<sub>5</sub>在圓弧C的圓心t4下方之垂直位置，該半徑r<sub>C</sub>可由下式求得：
+<maths num="4">
+<img id="i0004" he="274" wi="494" file="img-2/math/drawimg-20080411-102807-00000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="yes"/>
+</maths>取圓弧C的圓心t4相對於定義轉子的圓心t1之對稱點，作為圓弧H的圓心t5，該圓弧H之圓心t5的一端點P<sub>6</sub>在其垂直上方(即點P<sub>5</sub>相對於圓心t1的對稱點P<sub>6</sub>)，另一端點P<sub>9</sub>位於通過圓心t5與t4之延伸直線上，為該延伸直線與圓弧C交點P<sub>8</sub>相對於定義轉子的圓心t1之對稱點位置；連接點P<sub>2</sub>及點P<sub>6</sub>形成水平直線Y；取定義轉子的圓心t1為圓弧G的圓心，並從該圓心至圓弧H外側端點P<sub>9</sub>的距離作為半徑，圓弧G的兩端點P<sub>5</sub>與P<sub>9</sub>，即為圓弧C與圓弧H的外側端點P<sub>5</sub>與點P<sub>9</sub>，可平滑使圓弧G、圓弧C及圓弧H連接一起；連接上述之曲線E、圓弧A、圓弧B、圓弧F、圓弧C、圓弧H，及直線Y，以及圓弧G等組成定義轉子之單爪外形曲線。
+</claim-text>
+</claim>
+<claim dependency="independent-claim">
+<claim-text>如申請專利範圍第1項所述爪式轉子之單爪設計方法，其中定義轉子最大半徑R與節圓半徑Rp之比例採R=3Rp/2。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings lang="tw" figure-labels="第三圖 ">
+<p id="_0045" general="y">1．．．定義轉子
+</p>
+<p id="_0046" general="y">2．．．共軛轉子
+</p>
+</figure-drawings>
+<drawings lang="tw">
+<figure figure-labels="第一圖 ">
+<img id="i0005" he="0579" wi="0900" file="img-2/draw/094145948-a0305-03-0002-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第二圖 ">
+<img id="i0006" he="0653" wi="0900" file="img-2/draw/094145948-a0305-03-0003-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第三圖 ">
+<img id="i0007" he="0661" wi="0899" file="img-2/draw/094145948-a0305-03-0004-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第四圖 ">
+<img id="i0008" he="0640" wi="0900" file="img-2/draw/094145948-a0305-03-0005-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</invention-specification>

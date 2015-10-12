@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?><invention-specification lang="tw" receive-date="20011220" receive-num="09020373032" dtd-version="1.0" application-num="089123808" status="a" produced-by="applicant">
+ <case-code/>
+ <abstract lang="tw" status="">
+  <abstract-dtext>
+   <p general="n" id="_00001">　　一種內軸式排量機器之已知設計中，具有變化節距及/或變化橫向形狀，且軸心彼此平行之螺旋轉子，可在許多方面以轉速比(x+1)：x而且無須內隔開壁(=GE轉子)即可滿足內壓縮操作。但是，其幾何形狀在製造程序，如車床加工/蝕刻車床加工成本上很高，導致在組合，調整及服務上花費及問題產生。以形成新的轉子幾何形狀時，本發明在轉子製造上創造了莫大之節省，並且克服了在組合服務上及問題。本發明經由相對於彼此之軸向偏置造成之間隙變化，解決了調整問題，並且在轉速，壓力差，溫度及其他程序資料之操作時，可達成最佳之應用。極佳之內壓縮率1：1(等體積)到約1：10之達成，使化學/製藥業中使用之10立方公尺/小時到100立方公尺/小時之泵的應用打開了寬廣之領域。</p>
+  </abstract-dtext>
+ </abstract>
+ <abstract lang="en" status="">
+  <abstract-dtext>
+   <p general="n" id="_00002">In known designs of internal-axis displacement machines, axis-Parallelscrew rotors with varying pitches and/or varying transverse Profiles to achieveinner compression operate satisfactorily in many respecls at rotationaI sPeedratios or (x+1):x wilhout inner partition (=GE rotor). However, the geometriesthere require costly manufacturing processes such as machining/erosionmachining, and lead to expense and problems with resPect to assembly,adJustment and service.</p>
+   <p general="n" id="_00003">
+    By derining new rotor geometries, the present invention creates thebasis ror drastic savings in rotor manufacture, and overcomes the Problemswith respect to assembly and service. The gap variation possible according tothe invention through relative axial oftsetting of the rotors with respect to eachother solves the adjustment problem, and makes possible an optimaladaptation, during operation, of rotational speed, pressure difterence,temperature and other process data. The achievement of extreme, innercompression rates of 1:1 (:isochore) to about 1:10 opens up a wide area ofapplications ror pumps or about 10 m
+    <sup>3</sup>
+    /h to 100 m
+    <sup>3</sup>
+    /h in chemistry/pharmacy, thepackaging industry and manufacturing of semiconductors.
+   </p>
+  </abstract-dtext>
+ </abstract>
+ <description>
+  <invention-title lang="tw">內軸螺旋型排量機器</invention-title>
+  <invention-title lang="en">Internal-Axis, Screw-Type Displacement Machine</invention-title>
+  <invention-title lang="en">INTERNAL-AXIS, SCREW-TTPEDISPLACEMENT MACHINE</invention-title>
+  <description-of-drawings>
+   <description-of-element>
+    <p general="n" id="_00004" num="[0001]">1．．．外轉子</p>
+    <p general="n" id="_00005" num="[0002]">2．．．螺紋</p>
+    <p general="n" id="_00006" num="[0003]">3．．．外轉子軸</p>
+    <p general="n" id="_00007" num="[0004]">4．．．圓柱形突起</p>
+    <p general="n" id="_00008" num="[0005]">5．．．外轉子之卵形區域</p>
+    <p general="n" id="_00009" num="[0006]">11．．．內轉子</p>
+    <p general="n" id="_00010" num="[0007]">12．．．螺紋</p>
+    <p general="n" id="_00011" num="[0008]">13．．．內轉子軸</p>
+    <p general="n" id="_00012" num="[0009]">14．．．內轉子形狀部份中心</p>
+    <p general="n" id="_00013" num="[0010]">15．．．內轉子之外圓形區域</p>
+   </description-of-element>
+   <p general="n" id="_00014" num="[0011]">本文將參照下列之附圖詳細地說明較佳實施例，其中：</p>
+   <p general="n" id="_00015" num="[0012]">第1圖是轉子對局部剖面之立體圖；</p>
+   <p general="n" id="_00016" num="[0013]">第2圖是外轉子之縱剖面圖；</p>
+   <p general="n" id="_00017" num="[0014]">第3圖是內轉子之縱剖面圖；</p>
+   <p general="n" id="_00018" num="[0015]">第4圖是內轉子，外轉子及支持件之幾何關係及相互配置；</p>
+   <p general="n" id="_00019" num="[0016]">第5圖是外轉子之橫剖面圖；</p>
+   <p general="n" id="_00020" num="[0017]">第6圖是與通過第5圖外轉子之橫剖面圖相同平面中，之內轉子之橫剖面圖；</p>
+   <p general="n" id="_00021" num="[0018]">第7圖是外轉子之橫剖面展開及節距之可能路徑。</p>
+  </description-of-drawings>
+  <heading level="1">發明之領域</heading>
+  <p general="n" id="_00022" num="[0001]">本發明係關於一種排量機器，特別是用來做為真空泵，具有彼此非接觸地互相嚙合啣接之轉子，軸心平行地而可轉動地安裝在外殼中，該轉子形成可變容室，軸向交錯，在操作中可移動，並且該轉子被設計成為內軸構造，而為中空具有內螺紋之外轉子，以及具有外螺紋之內轉于，沿著轉子軸心具有變化之節距及變化之轉子橫向形狀。</p>
+  <heading level="1">先前之技術說明</heading>
+  <p general="n" id="_00023" num="[0002]">在下文中，外軸及內軸螺旋式排量機器彼此互相比較，參照一些通常之間題。具有相同輸出之內軸機器比外軸機器更能小型化。兩種型式中，轉子之同步可經由例如齒形輪子或者同步皮帶等而達成，則以內軸機器在現代許多應用中較容易達成乾燥操作。轉子冷卻亦較容易以內軸機器而達成，並且此種泵在熱學上亦不致那麼緊要。此兩種螺旋式排量機器之轉子的製造成本很高。主要為使用金屬材料，大都為鑄鐵，但是實際上亦須要金屬車削加工。以內軸機器時，有時至少一個轉子以多件方式製造，使轉子可全部被安裝。以外軸機器時，螺旋式排量機器其內壓縮比可以毫無困難地達到1:3。另一方面，內軸機器其內壓縮比可以毫無困難地達到1:5。使外軸機器裝設側邊為已知，當假定壓力限制已達到時，則可使壓縮比提高，以避免機器過熱。在內軸機器之情況，可裝設排放引導通道及對應之閥來應付此目的。調整轉子外徑與外殼之間的間隙，在內軸機器圍已知，例如為了在操作時考慮到熱膨脹的問題。此種調整通常很貴。但是在內軸機器之情況中，申請者未聞有調整可達到足夠之事。轉子之間的測量與調整，往往內軸機器比外軸機器難。外軸機器中，將轉子安裝在外殼中很容易，至少對具有圓柱形外部產生面之轉于是如此。以先進技術之內軸機器時，內轉子必須以轉動地插入外轉于之中。但是，具有變化節距之轉子時不可能如此做法，故時常須以多個元件來製造一個轉子。最後，為了剛剛提到之原因，為了維修之目的而接近泵室之方面，外軸機器比內軸機器容易。</p>
+  <p general="n" id="_00024" num="[0003]">其他方面的問題，如在動力密封或轉子平衡方面，兩種機器非常相似。總之，為了上述原因，內軸機器為了達成下面即將敘述之目的而提供了較佳之離開點。</p>
+  <p general="n" id="_00025" num="[0004]">法國專利第695539號所公開之排量機器可做為泵或馬達，其中具有內螺紋之中空外轉子及具有至少一個外螺紋之實心內轉子彼此互相嚙合啣接。轉子之軸心平行，並且外轉子之每單位之多個螺紋數比內轉子大一。</p>
+  <p general="n" id="_00026" num="[0005]">在第14圖中，瑞典專利第85331顯示一種排量機器為內軸構造，其轉子軸心平行而彼此嚙合，它被設計成具有內螺紋之中空外轉子及具有一個外螺紋之內轉子。</p>
+  <p general="n" id="_00027" num="[0006]">但是，這些機器中沒有一個為可變節距或免於轉子螺紋下方切斷者。</p>
+  <p general="n" id="_00028" num="[0007]">德國專利第2434782號中公開一種排量機器，其中具有內螺紋之中空外轉子及具有外螺紋之內轉于彼此互相嚙合啣接，轉子整個長度上之外形有一個交互變化之節距。故這些轉子可被安裝，外轉子被設計成兩件式。</p>
+  <heading level="1">發明之扼要說明</heading>
+  <p general="n" id="_00029" num="[0008]">在離開點之先進技術上，本發明之目的如下。轉子之製造必須大大地簡化，轉子之安裝及拆卸必須同時改為，因而使接近泵室之維修亦成為較容易。再者，間隙調整必須以簡單方法為之，並且壓力調整必須在高壓縮率下以最少之工夫而達成。這些目的以本發明達成，而必須在排量機器之製造尺寸及內壓縮，或者轉子的同步及冷卻上沒有負面效果。</p>
+  <p general="n" id="_00030" num="[0009]">這些目的是由具有申請專利範圍第1項之特徵之排量機器而達成。</p>
+  <p general="n" id="_00031" num="[0010]">更具體地，這些目的可由一種排量機器而達成，特別是用來做為真空泵時，其轉子彼此互相嚙合啣接，其軸心彼此平行而可在外殼中移動，此轉子形成可變容室，軸向交錯，在操作中移動，並且此轉子被設計成內軸構造，而具有內螺紋之中空外轉子及具有一個外螺紋之內轉子，在沿著轉子軸向上具有任意變化之節距以及變化之轉子橫向外形，其中在一個相同平面上之一個相同轉子之任何兩個橫向外形之軸向突起沒有共同點，轉子因而免於軸向下切，並且以軸向移動之簡單方式可被置於工作位置，並且嚙合可相對於彼此軸向調整。</p>
+  <p general="n" id="_00032" num="[0011]">
+   除了上述安裝簡單的優點之外，轉于免於軸向下切亦有另外一個優點。節距對一件式轉子為可自由被訂定，故在與橫剖面路線之互動中，體積路徑可被決定，以達成所須之壓縮。轉子可以非常簡單之方式，由鑄造模等而以單件式製造。外轉子及內轉子兩者之模具為可分離式，而分離線不會在轉子之外形上
+   <sub>,</sub>
+   此可使須要的加工程序減到最少。最後，即使在操作時，以機器上之對應構造，轉子之間晃動可由相對轉子位置之軸向調整而很容易地校正。
+  </p>
+  <p general="n" id="_00033" num="[0012]">本發明排量機器之特別實施例被敘述在附屬項申請專利範圍中。</p>
+  <heading level="1">圖式簡單說明</heading>
+  <p general="n" id="_00034" num="[0013]">本文將參照下列之附圖詳細地說明較佳實施例，其中：</p>
+  <p general="n" id="_00035" num="[0014]">第1圖是轉子對局部剖面之立體圖；</p>
+  <p general="n" id="_00036" num="[0015]">第2圖是外轉子之縱剖面圖；</p>
+  <p general="n" id="_00037" num="[0016]">第3圖是內轉子之縱剖面圖；</p>
+  <p general="n" id="_00038" num="[0017]">第4圖是內轉子，外轉子及支持件之幾何關係及相互配置；</p>
+  <p general="n" id="_00039" num="[0018]">第5圖是外轉子之橫剖面圖；</p>
+  <p general="n" id="_00040" num="[0019]">第6圖是與通過第5圖外轉子之橫剖面圖相同平面中，之內轉子之橫剖面圖；</p>
+  <p general="n" id="_00041" num="[0020]">第7圖是外轉子之橫剖面展開及節距之可能路徑。</p>
+  <heading level="1">本發明較佳實施例之詳細說明</heading>
+  <p general="n" id="_00042" num="[0021]">參照第1圖之立體圖，外轉子1被顯示一半切去，故內轉子11可被看見。外轉子1之螺紋以2代表，而內轉子11之螺紋以12代表。位於外轉子1之上方吸入側端為圓柱形突起，它使外轉子1可被承在一個支持件上。</p>
+  <p general="n" id="_00043" num="[0022]">第3圖是相當於第1圖之內轉子11之立體圖。</p>
+  <p general="n" id="_00044" num="[0023]">參照一個例子，第4圖顯示內轉于11及外轉子1之幾何關係及相互配置。假設在例子中為一個雙螺紋具有卵形內剖面之外轉子1，它與其中之單螺紋內轉子11嚙合。符號3代表外轉子1之軸心。符號13代表內轉于11軸心，並且14代表內轉子11形狀剖面之中心。外轉子1之內部卵形區域為5，內轉子11之外圓形區域為15。</p>
+  <p general="n" id="_00045" num="[0024]">
+   使用在公式中之符號具有下列意義：α=外轉子1之繞角Fα=在位置為α處之橫剖面積ε=偏心度R&lt;α&gt;=隨α而變之半徑DR∕dα=微分商數Rj=在位置α=2π處之參考半徑R1≦k=下切角T=常數w=橫剖面之軸向位置Lj=參考增量（在α=2π）Lj∕2π=參考節距（在α＝2π）DW/dα=動態節距=w之微分商數α
+   <sub>2</sub>
+   =整數之上限π=pi（圓周長除以其直徑，更具體為一個無盡之數3.1415
+   <sub>……</sub>
+   .）此形狀之容室橫剖面積為，F
+   <sub>α</sub>
+   =4ε(1-cosα)R&lt;α&gt;   [1]免於軸向下切之要求，在數學上以dR≧2dα表示。在此所選擇之函數，即R&lt;α&gt;=Rj+2k(α-2)，所有k≧1時可滿足此條件。形成
+   <img he="16" wi="16" id="i0001" img-format="jpg" file="img-2/others/089123808-21-3-1.jpg"/>
+   ＝1+T(α-2π)   [2]其中R
+   <sub>j=</sub>
+   R&lt;2π&gt;   [3]T=
+   <img he="16" wi="16" id="i0002" img-format="jpg" file="img-2/others/089123808-21-3-2.jpg"/>
+   [4]相當於公式〔2〕及條件〔3〕及〔4〕之曲線在第7圖中以符號31代表。
+  </p>
+  <p general="n" id="_00046" num="[0025]">
+   對節距之線性路徑有效為W&lt;α&gt;=
+   <img he="16" wi="16" id="i0003" img-format="jpg" file="img-2/others/089123808-21-3-3.jpg"/>
+   一般對非線性路徑有效為
+   <img he="16" wi="16" id="i0004" img-format="jpg" file="img-2/others/089123808-21-3-4.jpg"/>
+   g&lt;α&gt;並且得到dw=
+   <img he="16" wi="16" id="i0005" img-format="jpg" file="img-2/others/089123808-21-3-5.jpg"/>
+   g&lt;α&gt;dα   [5]其中g&lt;α&gt;純為&gt;0之變數。
+  </p>
+  <p general="n" id="_00047" num="[0026]">容室體積一般以下式計算</p>
+  <p general="n" id="_00048" num="[0027]">
+   <maths num="1">
+    <img he="105" wi="0899" id="i0006" img-format="gif" file="img-2/math/089123808-21-1-1.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00049" num="[0028]">插入〔5〕得</p>
+  <p general="n" id="_00050" num="[0029]">
+   <maths num="2">
+    <img he="104" wi="0900" id="i0007" img-format="gif" file="img-2/math/089123808-21-1-2.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00051" num="[0030]">插入〔1〕得</p>
+  <p general="n" id="_00052" num="[0031]">
+   <maths num="3">
+    <img he="108" wi="0900" id="i0008" img-format="gif" file="img-2/math/089123808-21-1-3.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00053" num="[0032]">
+   此公式〔6b〕偵用於容室體蹟具有固定醇子從起點α
+   <sub>2</sub>
+   =2,4及6。
+  </p>
+  <p general="n" id="_00054" num="[0033]">
+   對任何所耍之轄子位置α
+   <sub>2</sub>
+   =2
+   <sub>………</sub>
+   α
+   <sub>e</sub>
+   公式為
+  </p>
+  <p general="n" id="_00055" num="[0034]">
+   <maths num="4">
+    <img he="096" wi="0900" id="i0009" img-format="gif" file="img-2/math/089123808-21-1-4.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00056" num="[0035]">
+   為設定g&lt;a&gt;=
+   <img he="16" wi="16" id="i0010" img-format="jpg" file="img-2/others/089123808-21-3-6.jpg"/>
+   .h&lt;a&gt;,wherebyh&lt;α&gt; ，而h&lt;α&gt;亦為
+  </p>
+  <p general="n" id="_00057" num="[0036]">
+   <maths num="5">
+    <img he="099" wi="0900" id="i0011" img-format="gif" file="img-2/math/089123808-21-1-5.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00058" num="[0037]">
+   <maths num="6">
+    <img he="148" wi="0900" id="i0012" img-format="gif" file="img-2/math/089123808-21-1-6.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00059" num="[0038]">由公式〔6d〕下列足夠之條件可對等體積機器導出：</p>
+  <p general="n" id="_00060" num="[0039]">
+   <maths num="7">
+    <img he="090" wi="0900" id="i0013" img-format="gif" file="img-2/math/089123808-21-1-7.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00061" num="[0040]">
+   <maths num="8">
+    <img he="1317" wi="0900" id="i0014" img-format="gif" file="img-2/math/089123808-21-1-8.gif"/>
+   </maths>
+  </p>
+  <p general="n" id="_00062" num="[0041]">第5圖顯示通過具有內凹處（區域5）之卵形橫剖面，及具有軸心3之外轉子1的橫剖面圖，卵形之末端具有半徑R。第6圖顯示通過相同平面中之內轉子11之橫剖面圖，如同通過第5圖之外轉子1之橫剖面圖。圓形橫剖面區域（區域15）之半徑R相當於上述內轉子11之半徑R。</p>
+  <p general="n" id="_00063" num="[0042]">第7圖以一個圖形顯示外轉子之轉子螺紋節距之可能路徑，與繞角之變數關係，繞角α繪於橫座標上。曲線31為在條件〔2〕之下，相當於橫剖面隨半徑增加之變化，以達成免於下切。曲線32相當於公式〔7〕，並且與一個對等體積操作機器之外轉予節距路徑成正比。曲線33正比於機器之外轉子節距路徑，其中與相當於曲線31之橫剖面變化結合，而達成壓縮率超過1:1及第二度為1:5。吸入側在α=0。</p>
+  <p general="n" id="_00064" num="[0043]">
+   曲線34正比於機器之外轉子節距路徑，其中與相當於曲線31之橫剖面變化結合，而達成壓縮率超過1:2及第二度為1:0。吸入側在α=α
+   <sub>e</sub>
+   。
+  </p>
+  <heading level="1">主要元件符號說明</heading>
+  <p general="n" id="_00065" num="[0044]">1．．．外轉子</p>
+  <p general="n" id="_00066" num="[0045]">2．．．螺紋</p>
+  <p general="n" id="_00067" num="[0046]">3．．．外轉子軸</p>
+  <p general="n" id="_00068" num="[0047]">4．．．圓柱形突起</p>
+  <p general="n" id="_00069" num="[0048]">5．．．外轉子之卵形區域</p>
+  <p general="n" id="_00070" num="[0049]">11．．．內轉子</p>
+  <p general="n" id="_00071" num="[0050]">12．．．螺紋</p>
+  <p general="n" id="_00072" num="[0051]">13．．．內轉子軸</p>
+  <p general="n" id="_00073" num="[0052]">14．．．內轉子形狀部份中心</p>
+  <p general="n" id="_00074" num="[0053]">15．．．內轉子之外圓形區域</p>
+ </description>
+ <claims status="">
+  <claim dependency="independent-claim" num="1">
+   <claim-text>1.一種排量機器，特別當做真空泵使用，其具有互相嚙合啣接的轉子(1，11)，該等轉子是以一軸心彼此平行的方式而可移動地被設置在一外殼中，此等轉子在操作期間中形成可變容室，軸向地交錯，移動，並且此等轉子被設計成內軸構造，而具有內螺紋(2)之中空外轉子(1)及具有一個外螺紋(12)之內轉子(11)，在沿著轉子軸(3，13)上具有任意地變化該等節距以及變化該轉子橫向形狀，其特徵為在一個相同平面上之一個相同轉子之任何兩個橫向外形之軸向突起沒有共同點，轉子(1，11)因而免於軸向下切，並且透過軸向移動以一簡單方式可被置於工作位置中，並且嚙合可相對於彼此軸向調整。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="2">
+   <claim-text>2.如申請專利範圍第1項之排量機器，其中至少在相互嚙合區域中之轉子(1，11)沒有分離縫線，並且同時對兩個轉子(1，11)中任何一個之節距可自由地被訂定，以做為一隨繞角而變之變數。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="3">
+   <claim-text>3.如申請專利範圍第2項之排量機器，其中小的橫向形狀及大的節距在吸入側完成，並且大的橫向形狀及小的節距在壓力側完成，藉此，該位移效果進一步地藉由離心力而被支持，特別在高轉速下，並且對具有高比例液體之媒介物言，可達到一個強化之程度。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="4">
+   <claim-text>4.如申請專利範圍第3項之排量機器，其中轉子(1，11)之橫剖面及節距是被設計成，使容室體積在軸向移動時仍維持常數，而與形狀變化無關，藉此使排量機器可等體積地進行壓縮。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="5">
+   <claim-text>5.如申請專利範圍第3項之排量機器，其中轉子(1，11)之橫剖面及節距被設計成，使容室體積在軸向移動時減少，使壓縮率形成超過1：1到1：5。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="6">
+   <claim-text>6.如申請專利範圍第2項之排量機器，其中大的橫向形狀及大的節距在吸入側完成，並且小的橫向形狀及小的節距在壓力完成側，藉此使壓縮率達到1：1到1：5。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="7">
+   <claim-text>7.如申請專利範圍第1項之排量機器，其中容室之間的軸向交錯的間隙，可由改變兩個轉子(1，11)在靜止或在操作時相對於彼此之軸向位置而變化。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="8">
+   <claim-text>8.如申請專利範圍第2項之排量機器，其中容室之間的軸向交錯的間隙，可由改變兩個轉子(1，11)在靜止或在操作時相對於彼此之軸向位置而變化。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="9">
+   <claim-text>9.如申請專利範圍第3項之排量機器，其中容室之間的軸向交錯的間隙，可由改變兩個轉子(1，11)在靜止或在操作時相對於彼此之軸向位置而變化。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="10">
+   <claim-text>10.如申請專利範圍第6項之排量機器，其中容室之間的軸向交錯的間隙，可由改變兩個轉子(1，11)在靜止或在操作時相對於彼此之軸向位置而變化。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="11">
+   <claim-text>11.如申請專利範圍第7項之排量機器，其中兩個轉子(1，11)相對於彼此之軸向位置的變化，會造成吸入側上之間隙橫剖面小的變化，並且造成壓力側間隙橫剖面大的變化，並且連續地可調整之壓力差控制是被達成至此一程度。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="12">
+   <claim-text>12.如申請專利範圍第8項之排量機器，其中兩個轉子(1，11)相對於彼此之軸向位置的變化，會造成吸入側上之間隙橫剖面小的變化，並且造成壓力側間隙橫剖面大的變化，並且連續地可調整之壓力差控制是被達成至此一程度。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="13">
+   <claim-text>13.如申請專利範圍第9項之排量機器，其中兩個轉子(1，11)相對於彼此之軸向位置的變化，會造成吸入側上之間隙橫剖面小的變化，並且造成壓力側間隙橫剖面大的變化，並且連續地可調整之壓力差控制是被達成至此一程度。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="14">
+   <claim-text>14.如申請專利範圍第10項之排量機器，其中兩個轉子(1，11)相對於彼此之軸向位置的變化，會造成吸入側上之間隙橫剖面小的變化，並且造成壓力側間隙橫剖面大的變化，並且連續地可調整之壓力差控制是被達成至此一程度。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="15">
+   <claim-text>15.如申請專利範圍第1項之排量機器，其中轉子(1，11)是由可模造之材料而以兩件式模具製造，藉此使模具之分離不會超過轉子互相嚙合的表面，而是在每一個情況中均為在轉子末端。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="16">
+   <claim-text>16.如申請專利範圍第2項之排量機器，其中轉子(1，11)是由可模造之材料而以兩件式模具製造，藉此使模具之分離不會超過轉子互相嚙合的表面，而是在每一個情況中均為在轉子末端。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="17">
+   <claim-text>17.如申請專利範圍第3項之排量機器，其中轉子(1，11)是由可模造之材料而以兩件式模具製造，藉此使模具之分離不會超過轉子互相嚙合的表面，而是在每一個情況中均為在轉子末端。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="18">
+   <claim-text>18.如申請專利範圍第6項之排量機器，其中轉子(1，11)是由可模造之材料而以兩件式模具製造，藉此使模具之分離不會超過轉子互相嚙合的表面，而是在每一個情況中均為在轉子末端。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="19">
+   <claim-text>19.如申請專利範圍第15項之排量機器，其中轉子材料為陶瓷及／或合成材料。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="20">
+   <claim-text>20.如申請專利範圍第16項之排量機器，其中轉子材料為陶瓷及／或合成材料。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="21">
+   <claim-text>21.如申請專利範圍第17項之排量機器，其中轉子材料為陶瓷及／或合成材料。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="22">
+   <claim-text>22.如申請專利範圍第18項之排量機器，其中轉子材料為陶瓷及／或合成材料。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="23">
+   <claim-text>23.如申請專利範圍第1到22項中任一項之排量機器，其中兩個轉子中之一個中心地被固定到外殼，並且另一個轉子在每一情況下偏心地被安裝，做為一個中心地被安裝之支持轉子，並且以行星方式被驅轉。</claim-text>
+  </claim>
+  <claim dependency="independent-claim" num="24">
+   <claim-text>24.如申請專利範圍第1到22項中任一項之排量機器，其中兩個轉子(1，11)可轉動地被安裝在外殼中。</claim-text>
+  </claim>
+ </claims>
+ <drawings lang="tw" status="">
+  <figure figure-labels="第1圖" id="_1001">
+   <img he="1292" wi="0900" id="i0015" img-format="gif" file="img-2/draw/089123808-213-001-000-1.gif"/>
+  </figure>
+  <figure figure-labels="第2圖" id="_1002">
+   <img he="0958" wi="0900" id="i0016" img-format="gif" file="img-2/draw/089123808-213-002-000-2.gif"/>
+  </figure>
+  <figure figure-labels="第3圖" id="_1003">
+   <img he="1048" wi="0900" id="i0017" img-format="gif" file="img-2/draw/089123808-213-003-000-3.gif"/>
+  </figure>
+  <figure figure-labels="第4圖" id="_1004">
+   <img he="1003" wi="0900" id="i0018" img-format="gif" file="img-2/draw/089123808-213-004-000-4.gif"/>
+  </figure>
+  <figure figure-labels="第5圖" id="_1005">
+   <img he="0775" wi="0900" id="i0019" img-format="gif" file="img-2/draw/089123808-213-005-000-5.gif"/>
+  </figure>
+  <figure figure-labels="第6圖" id="_1006">
+   <img he="0579" wi="0900" id="i0020" img-format="gif" file="img-2/draw/089123808-213-005-001-6.gif"/>
+  </figure>
+  <figure figure-labels="第7圖" id="_1007">
+   <img he="1037" wi="0899" id="i0021" img-format="gif" file="img-2/draw/089123808-213-006-000-7.gif"/>
+  </figure>
+ </drawings>
+</invention-specification>

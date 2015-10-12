@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification lang="tw" receive-num=" " receive-date=" " dtd-version="1.0.0" filing-date="0940721" application-num="094124780" ipc-mark="F01C1/24,F04C18/20" status="p" produced-by="applicant"><abstract lang="tw"><abstract-dtext><p id="_00001" general="n">本發明係提供一種爪式轉子設計方法，該方法係可設計出相互共軛囓合的定義轉子與共軛轉子，並以參數化定義兩轉子的無效壓縮至開始進氣的運動曲線，及排氣開始至終結的運動曲線，藉以評估並求出最佳轉子性能，而能應用於實際需求的真空幫浦、空壓機、壓縮機、增壓器等，以提供具有較高壓縮比及輸送容積，並確保兩轉子在運轉的過程不會有噪音與震動的現象產生。
+</p>
+</abstract-dtext>
+</abstract>
+<description><invention-title lang="tw">爪式轉子設計方法
+</invention-title>
+<technical-field><p id="_00002" general="0001">本發明係關於一種爪式轉子設計方法，係為台灣新型專利號第220027號的追加專利申請(相對美國專利第6,776,594號的Continuation In Part; CIP)，該方法能夠將相互共軛囓合的定義轉子與共軛轉子，以四個參數定義兩轉子的無效壓縮至開始進氣的運動曲線，及排氣開始至終結的運動曲線，藉以評估並求出最佳轉子性能，而能應用於真空幫浦、空壓機、壓縮機、增壓器等，以提供具有較高壓縮比與輸送容積，及使得進、排氣運動過程順暢，不會產生噪音及震動之效果。
+</p>
+</technical-field>
+<background-art><p id="_00003" general="0002">按，應用於多段魯式壓縮機、真空幫浦、空壓機或增壓器上的爪式轉子，大體上包括：兩個相互囓合的定義轉子與共軛轉子，而該兩轉子上分別設有相囓合的葉片，藉由兩葉片相互囓合旋轉以提供週期性循環的進、排氣壓縮運動，因此，兩葉片囓合性非常重要，假使兩葉片相互囓合性不佳則在進氣、排氣、無壓縮的週期性旋轉過程便會產生噪音與震動，且也會造成兩轉子因不當的囓合所產生的摩耗，而降低使用壽命。
+</p>
+<p id="_00004" general="0003">習知相關轉子的構造可參考美國專利案第1,426,820、4,138,848、4,224.016、4,324,538、4,406,601、4,430,050以及5,149,256號等，其中第5,149,256號的兩個轉子8、9的葉片，如第九圖所示，在凹部80,90與弧面81,91的交接處，係形成
+尖部82,92，而使得整個轉子80,90的曲線在該尖部82,92形成不連續，因而，當其從無效壓縮至開始進氣的過程時，轉子8,9的頂端部83,93便會在該尖部82,92運轉不順暢平滑，而會有噪音與震動的現象產生。相同情況，前述其他的美國專利案在相囓合的兩轉子作動過程，也存在運轉不順暢，而有噪音與震動的現象。
+</p>
+<p id="_00005" general="0004">本案先前的設計台灣新型專利第220027號(美國第6,776,594號專利案)，已提出解決上述習知的瑕疵，即，在兩轉子無效壓縮至開始進氣的階段，及排氣開始至終結的階段，以兩個不同曲線經平滑連接，而不是由兩圓弧的交接而成。因此，能夠使得兩轉子在運轉的過程不會有噪音與震動的現象產生。
+</p>
+</background-art>
+<disclosure><p id="_00006" general="0005">本發明之目的，在於進一步提供一種爪式轉子設計方法，該方法係可將相互囓合的定義轉子與共軛轉子的無效壓縮至開始進氣的運動曲線，及排氣開始至終結的運動曲線，以不同參數定義取得，藉以評估並求出最佳轉子性能，而能應用於實際需求的真空幫浦、空壓機、壓縮機、增壓器等，以提供具有較高壓縮比及輸送容積，並確保兩轉子在運轉的過程不會有噪音與震動的現象產生。
+</p>
+</disclosure>
+<mode-for-invention><p id="_00007" general="0006">本發明爪式轉子設計方法，係先取得定義轉子1的外形，
+再以共軛曲線取得共軛轉子2的外形，請參閱第一、二圖，該定義轉子1的外形取得包括如下步驟：1.指定定義轉子最大半徑R、定義轉子寬度D、定義轉子及共軛轉子之節圓半徑Rp，此二節圓之圓心分別為t1及t3，Rp小於R，且定義轉子最大半徑R與節圓半徑Rp之比例採R=3Rp/2。
+</p>
+<p id="_00008" general="0007">2.取節圓之圓心t1作為定義轉子的圓心，通過一水平線h1，並在該水平線h1上取得一點<i>P</i><sub>0</sub>，此點<i>P</i><sub>0</sub>與圓心t1之水平距離為R，由該點<i>P</i><sub>0</sub>繞節圓圓心t1產生共軛曲線E&apos;，曲線E&apos;相對於節圓交點<i>P</i><sub>7</sub>之對稱曲線E，取此曲線E作為轉子的葉片一部份。該曲線E在水平線h1上的交點<i>P</i><sub>3</sub>。
+</p>
+<p id="_00009" general="0008">3.定義轉子外形曲線的另一點<i>P</i><sub>1</sub>，由定義轉子圓心t1以半徑R及所指定之圓心角α決定。連接點<i>P</i><sub>0</sub>與<i>P</i><sub>0</sub>可取得圓弧A。
+</p>
+<p id="_00010" general="0009">4.取圓心角α的夾邊h2，且在該夾邊h2上取得一圓心點t2，半徑為<i>r</i><sub><i>B</i></sub>。
+</p>
+<p id="_00011" general="0010">5.該半徑<i>r</i><sub><i>B</i></sub>由如下求得：(其中R=定義轉子的最大半徑；即圓心t1至點<i>P</i><sub>1</sub>的長度)
+</p>
+<p id="_00012" general="0011"><maths num=" "><img id="" he="319" wi="994" file="img-2/math/094124780-a0305-02-0005-1.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</maths>
+</p>
+<p id="_00013" general="0012">6.求得半徑<i>r</i><sub><i>B</i></sub>再以圓心t2為圓心，則可取得兩端點為點<i>P</i><sub>1</sub>與點<i>P</i><sub>2</sub>的圓弧B作為定義轉子的外形曲線之另一部份，其中點<i>P</i><sub>2</sub>在圓心t2上方之垂直位置。
+</p>
+<p id="_00014" general="0013">7.再於水平線h1上取得共軛轉子的節圓圓心t3，t1與t3之水平距離為2Rp，則定義轉子外形曲線的另一點<i>P</i><sub>4</sub>可由通過共軛轉子圓心t3以半徑R及所指定之圓心角β決定。連接點<i>P</i><sub>3</sub>與點<i>P</i><sub>4</sub>所取得之外形曲線為圓弧F。
+</p>
+<p id="_00015" general="0014">8.取圓心角β的夾邊h3，且在該夾邊h3上取得一圓心點t4，半徑為<i>r</i><sub><i>C</i></sub>。
+</p>
+<p id="_00016" general="0015">9.該半徑<i>r</i><sub><i>C</i></sub>由如下求得：(其中R=定義轉子的最大半徑；即圓心t3至點<i>P</i><sub>4</sub>的長度)
+</p>
+<p id="_00017" general="0016"><maths num=" "><img id="" he="293" wi="610" file="img-2/math/094124780-a0305-02-0006-2.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</maths>
+</p>
+<p id="_00018" general="0017">10.求得半徑<i>r</i><sub><i>C</i></sub>再以圓心t4為圓心，則可取得兩端點為點<i>P</i><sub>4</sub>與點<i>P</i><sub>5</sub>的圓弧C作為定義轉子的外形曲線之另一部份，點<i>P</i><sub>5</sub>在圓心t4下方之垂直位置。
+</p>
+<p id="_00019" general="0018">11.連接點<i>P</i><sub>2</sub>及點<i>P</i><sub>5</sub>的對稱點<i>P</i><sub>6</sub>所形成之水平直線Y。
+</p>
+<p id="_00020" general="0019">12.連接上述之曲線E、圓弧A、圓弧B、圓弧F、圓弧C、直線Y等組成定義轉子1單爪之外形曲線，相對另一爪之外形曲線與上述各定義曲線成對稱關係(虛
+線所示)。
+</p>
+<p id="_00021" general="0020">是以，藉由上述的步驟，可取得具有兩爪葉片的定義轉子本體外形曲線。
+</p>
+<p id="_00022" general="0021">請參閱第三圖，利用上述步驟決定定義轉子1之外形後，共軛轉子2之外形則由上述各定義轉子1各定義曲線(曲線E、圓弧A、圓弧B、圓弧F、圓弧C、直線Y)之共軛曲線組成。
+</p>
+<p id="_00023" general="0022">請參閱第四圖為本發明爪式轉子設計方法其中定義轉子最大半徑R採60mm、定義轉子寬度D採85mm、圓心角α為3度、圓心角β為6度的應用例，如圖所示在如是條件下，定義轉子1與共軛轉子2的外形是為幾乎相同，因而，實際應用時具有較相近之機械性質。
+</p>
+<p id="_00024" general="0023">再請參閱第五圖，當定義轉子最大半徑R採60mm維持不變，而定義轉子1的寬度D值分別為52、55、60、65、70、75、80mm時，依共軛囓合的特性，該定義轉子1的寬度D值最較小者(S1)，所對應的共軛轉子2的外形是為最大者(L1)，如此類推，實際應用上可以視需要作對應的調整。
+</p>
+<p id="_00025" general="0024">另，請參閱第六、七圖，本發明爪式轉子設計方法其中維持定義轉子1最大半徑R採60mm、定義轉子寬度D採85mm，而圓心角α與圓心角β分別為3、6、9、12度時，定義轉子1外形變化則有不同的變化，從圖上清楚的可以顯示，當
+圓心角α在不同角度時，定義轉子1的葉片外側會隨著角度的變大而加大(第六圖)，而共軛轉子2則隨著角度的變大而變小。同樣的，當圓心角β在不同角度時，定義轉子1的葉片另一外側會隨著角度的變大而加大，而共軛轉子2則隨著角度的變大而變小(第七圖)。續請參閱第八圖，是為彙整第五圖至第七圖，不同定義轉子1的寬度D及不同圓心角α與圓心角β，取得半徑<i>r</i><sub><i>B</i></sub>與半徑<i>r</i><sub><i>C</i></sub>的不同參數值，依此參數值則可使得定義轉子1與共軛轉子2的外形作相對的變化調整。
+</p>
+<p id="_00026" general="0025">職是藉本發明的方法所製出的定義轉子1與共軛轉子2，在相互囓合運轉的無效壓縮至開始進氣的階段，及排氣開始至終結的階段，因為以兩個不同曲線經平滑連接，因此，能夠使得兩轉子在運轉的過程不會有噪音與震動的現象產生，具有較高壓縮比與輸送容積。
+</p>
+<p id="_00027" general="0026">綜上所述，本發明爪式轉子設計方法確能達到創作之目的，符合發明專利要件，惟，以上所述者僅為本發明之較佳實施例而已，大凡依據本發明所為之各種修飾與變化，仍應包含於本案專利申請範圍內。
+</p>
+</mode-for-invention>
+<description-of-drawings><description-of-element><p id="_00028" general="0027">1‧‧‧定義轉子
+</p>
+<p id="_00029" general="0028">2‧‧‧共軛轉子
+</p>
+<p id="_00030" general="0029">R‧‧‧最大半徑
+</p>
+<p id="_00031" general="0030">D‧‧‧定義轉子寬度
+</p>
+<p id="_00032" general="0031">Rp‧‧‧節圓半徑
+</p>
+<p id="_00033" general="0032">Y‧‧‧直線
+</p>
+<p id="_00034" general="0033">t1,t2t3,t4‧‧‧圓心
+</p>
+<p id="_00035" general="0034">h1,h2,h3,h4‧‧‧水平線
+</p>
+<p id="_00036" general="0035"><i>P</i><sub>0</sub>,<i>P</i><sub>1</sub>,<i>P</i><sub>2</sub>,<i>P</i><sub>3</sub>,<i>P</i><sub>4</sub>,<i>P</i><sub>5</sub>,<i>P</i><sub>6</sub>,<i>P</i><sub>7‧‧‧</sub>點
+</p>
+<p id="_00037" general="0036">α,β‧‧‧圓心角
+</p>
+<p id="_00038" general="0037"><i>r</i><sub><i>B</i></sub>,<i>r</i><sub><i>C‧‧‧</i></sub>半徑
+</p>
+<p id="_00039" general="0038">E,E&apos;‧‧‧曲線
+</p>
+<p id="_00040" general="0039">A,B,C,F‧‧‧圓弧
+</p>
+</description-of-element>
+<p id="_00041" general="0040">第一圖為本發明爪式轉子設計方法形成端點共軛曲線的示意圖。
+</p>
+<p id="_00042" general="0041">第二圖為本發明爪式轉子設計方法形成定義轉子外形的示意圖。
+</p>
+<p id="_00043" general="0042">第三圖為本發明爪式轉子設計方法形成共軛轉子外形的示意圖。
+</p>
+<p id="_00044" general="0043">第四圖為本發明爪式轉子設計方法其中定義轉子最大半徑R為60mm、定義轉子寬度D為85mm、圓心角α為3度、圓心角β為6度的應用例。
+</p>
+<p id="_00045" general="0044">第五圖為本發明爪式轉子設計方法中定義轉子的厚度D為52,55,60,65,75,80mm時定義轉子外形變化的示意圖。
+</p>
+<p id="_00046" general="0045">第六圖為本發明爪式轉子設計方法其中圓心角α為3、6、9、12度時定義轉子外形變化的示意圖。
+</p>
+<p id="_00047" general="0046">第七圖為本發明爪式轉子設計方法圓心角β為3、6、9、12度時定義轉子外形變化的示意圖。
+</p>
+<p id="_00048" general="0047">第八圖中圖表一、二、三為表列第五、六、七圖中各不同參數所得到定義轉子與共軛轉子的葉片不同數值。
+</p>
+<p id="_00049" general="0048">第九圖為美國專利第5,149,256號的平面圖。
+</p>
+</description-of-drawings>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種爪式轉子設計方法，該方法用於製造相互共軛囓合的定義轉子與共軛轉子，以參數化設計出包含曲線E、圓弧A、圓弧B、圓弧F、圓弧C、直線Y的定義轉子之本體與葉片，及由該等曲線與圓弧以共軛曲線組成共軛轉子，該方法包括：形成定義轉子步驟及形成共軛轉子步驟，其中：該形成定義轉子步驟包括：指定定義轉子最大半徑R、定義轉子的寬度D、定義轉子與共軛轉子之節圓半徑Rp及此二節圓之圓心t1,t3，此二節圓中心距為2Rp，Rp小於R，且R與Rp二者有一適當比例；取節圓之圓心t1作為定義轉子的圓心，通過一水平線h1，並在該水平線h1上取得一點<i>P</i><sub>0</sub>，此點<i>P</i><sub>0</sub>與圓心t1之水平距離為R，由該點<i>P</i><sub>0</sub>繞節圓圓心t1產生共軛曲線E&apos;，曲線E&apos;相對於二節圓交點<i>P</i><sub>7</sub>之對稱曲線E，取此曲線E作為轉子的葉片一部份。該曲線E在水平線h1上的交點<i>P</i><sub>3</sub>；由該水平線h1及定義轉子圓心t1的圓心角α，決定定義轉子運動曲線的另一點<i>P</i><sub>1</sub>，連接前述點<i>P</i><sub>0</sub>與<i>P</i><sub>1</sub>可取得定義轉子外形曲線的圓弧A，且與曲線E平順連接；於該圓心角α的夾邊h2上取得第二圓心點t2，並經由三角函數關係式求得第二圓心點t2的半徑<i>r</i><sub><i>B</i></sub>，則可取得一圓
+弧B作為定義轉子的外形曲線之另一部份，並獲得該圓弧B的兩個端點<i>P</i><sub>1</sub>與<i>P</i><sub>2</sub>，且點<i>P</i><sub>2</sub>在圓心t2上方之垂直位置；於該水平線h1上相對於定義轉子節圓之圓心t1取一點t3作為共軛轉子節圓之圓心點，t3與t1之水平距離為2Rp，則定義轉子的另一外形曲線的一點<i>P</i><sub>4</sub>可由通過共軛轉子圓心t3以半徑R及所指定之圓心角β決定，連接前述點<i>P</i><sub>3</sub>與點<i>P</i><sub>4</sub>可取得定義轉子的另一外形曲線圓弧F；於該圓心角β的夾邊h3上取得第四圓心點t4，並經由三角函數關係式求得第四圓心點t4的半徑<i>r</i><sub><i>C</i></sub>，則可取得一圓弧C作為定義轉子的外形曲線之另一部份，並獲得該圓弧C的兩個端點點<i>P</i><sub>4</sub>與點<i>P</i><sub>5</sub>，且點<i>P</i><sub>5</sub>在圓心t4下方之垂直位置；連接點<i>P</i><sub>2</sub>及點<i>P</i><sub>5</sub>的對稱點<i>P</i><sub>6</sub>所形成之水平直線Y；連接上述之曲線E、圓弧A、圓弧B、圓弧F、圓弧C、直線Y等組成定義轉子1單爪之外形曲線，相對另一爪之外形曲線與上述各定義曲線成對稱關係，如是為定義轉子的本體外形曲線；該形成共軛轉子步驟，係利用上述步驟決定定義轉子之外形後，再由定義轉子中各定義曲線之共軛曲線組成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述爪式轉子設計方法，其中半徑<i>r</i><sub><i>B</i></sub>係由如下三角函數關係式求得：
+<maths num=" "><img id="" he="239" wi="0900" file="img-2/math/094124780-a0305-02-0012-3.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</maths>
+其中R=定義轉子的最大半徑；即圓心t1至點<i>P</i><sub>1</sub>的長度。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述爪式轉子設計方法，其中半徑<i>r</i><sub><i>C</i></sub>係由如下三角函數關係式求得：
+<maths num=" "><img id="" he="258" wi="849" file="img-2/math/094124780-a0305-02-0012-4.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</maths>
+其中R=定義轉子的最大半徑；即圓心t3至點<i>P</i><sub>4</sub>的長度。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述爪式轉子設計方法，其中定義轉子最大半徑R與節圓半徑Rp之比例採R=3Rp/2。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings lang="tw" figure-labels="第一圖"><p id="_00050" general="n">1‧‧‧定義轉子
+</p>
+<p id="_00051" general="n">2‧‧‧共軛轉子
+</p>
+<p id="_00052" general="n">R‧‧‧最大半徑
+</p>
+<p id="_00053" general="n">D‧‧‧定義轉子寬度
+</p>
+<p id="_00054" general="n">Rp‧‧‧節圓半徑
+</p>
+<p id="_00055" general="n">Y‧‧‧直線
+</p>
+<p id="_00056" general="n">t1,t2t3,t4‧‧‧圓心
+</p>
+<p id="_00057" general="n">h1,h2,h3,h4‧‧‧水平線
+</p>
+<p id="_00058" general="n"><i>P</i><sub>0</sub>,<i>P</i><sub>1</sub>,<i>P</i><sub>2</sub>,<i>P</i><sub>3</sub>,<i>P</i><sub>4</sub>,<i>P</i><sub>5</sub>,<i>P</i><sub>6</sub>,<i>P</i><sub>7‧‧‧</sub>點
+</p>
+<p id="_00059" general="n">α,β‧‧‧圓心角
+</p>
+<p id="_00060" general="n"><i>r</i><sub><i>B</i></sub>,<i>r</i><sub><i>C‧‧‧</i></sub>半徑
+</p>
+<p id="_00061" general="n">E,E&apos;‧‧‧曲線
+</p>
+<p id="_00062" general="n">A,B,C,F‧‧‧圓弧
+</p>
+</figure-drawings>
+<drawings lang="tw"><figure figure-labels="第一圖"><img id="i0001" wi="0899" he="0675" file="img-2/draw/094124780-a0305-03-0002-5.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第二圖"><img id="i0002" wi="0900" he="0654" file="img-2/draw/094124780-a0305-03-0003-6.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第三圖"><img id="i0003" wi="0900" he="0728" file="img-2/draw/094124780-a0305-03-0004-7.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第四圖"><img id="i0004" wi="0900" he="0680" file="img-2/draw/094124780-a0305-03-0005-8.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第五圖"><img id="i0005" wi="0899" he="0604" file="img-2/draw/094124780-a0305-03-0006-9.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第六圖"><img id="i0006" wi="0900" he="0710" file="img-2/draw/094124780-a0305-03-0007-10.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第七圖"><img id="i0007" wi="0900" he="0748" file="img-2/draw/094124780-a0305-03-0008-11.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第八圖"><img id="i0008" he="0963" wi="0900" file="img-2/draw/094124780-a0305-03-0009-13.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第九圖"><img id="i0009" wi="0900" he="0633" file="img-2/draw/094124780-a0305-03-0010-14.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</invention-specification>

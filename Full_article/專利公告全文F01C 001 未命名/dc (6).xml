@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification application-num="094122888" dtd-version="1.0.0" filing-date="0940706" ipc-mark="F01C1/04" lang="tw" produced-by="applicant" receive-date=" " receive-num=" " status="p"><abstract lang="tw"><abstract-dtext><p general="n" id= "_00001">一種用於不同壓縮機的平衡系統，其係利用一具有共通外部組態之平衡錘。藉由改變位於平衡錘之內的凹槽尺寸，供最佳化各壓縮機之平衡錘質量。在一具體實施例中，該凹槽為一拱形凹槽；而在另一具體實施例中，該凹槽為數個孔洞。</p>
+</abstract-dtext>
+</abstract>
+<abstract lang="en"><abstract-dtext><p general="n" id= "_00002">A balancing system for different compressors utilizes a counterweight having a common exterior configuration. The mass of the counterweight is optimized for each compressor by changing the size of a recess located in the counterweight. In one embodiment, the recess is an arcuately shaped recess;and in another embodiment, the recess is a plurality of holes.</p>
+</abstract-dtext>
+</abstract>
+<description><invention-title lang="tw">具有含可變腔室之平衡錘的渦捲機械</invention-title>
+<invention-title lang="en">SCROLL MACHINE HAVING COUNTERWEIGHTS WITH CHANGEABLE CAVITY</invention-title>
+<technical-field><heading level="1">發明領域</heading>
+<p general="0001" id= "_00003">本發明係有關於旋轉機械之平衡。更特別言之，本發明有關於用來平衡旋轉機械的平衡錘，該平衡錘包含一可變尺寸之腔室，其係用來最佳化該平衡錘的質量。</p>
+</technical-field>
+<background-art><heading level="1">發明背景</heading>
+<p general="0002" id= "_00004">本技藝中有一類機械習知為用於排放各種流體的”渦捲”裝置。可將此類裝置組態成為擴張機(expander)、排量式引擎(displacement engine)、泵浦、壓縮機、等等，而本發明之許多特性可應用於此等機械中之任何一種。不過，就圖解目的而言，所揭示的具體實施例之形式為密閉型冷媒壓縮機(hermetic refrigerant compressor)。</p>
+<p general="0003" id= "_00005">一般而言，渦捲裝置包含兩條有類似組態之螺旋渦捲繞線(spiral scroll wrap)，各裝在分開的端板上以界定一渦捲構件。兩個渦捲構件彼此裝在一起而渦捲繞線中之一條與另一條彼此的旋轉位移為180度。裝置的操作係藉由使一渦捲構件(“繞動渦捲”)相對於另一渦捲構件(“固定渦捲”或”不繞動渦捲”)繞動以便在各繞線的腹面之間做出移動線接觸(moving line contact)，其係界定流體的移動隔離式新月形囊袋。通常螺紋的形狀為圓的漸伸線，且在操作期間渦捲構件之間沒有相對旋轉最佳；即，運動純為曲線平移(curvilinear translation)(即，主體中的任何一條直線沒有旋轉)。流體囊袋(fluid pocket)將待處理流體從渦捲裝置中有流體入口的第一區傳送到裝置中有流體出口的第二區。密封囊袋的容積隨著從第一區到第二區的移動而改變。在任一給定時刻，至少會有一對密封囊袋；且當有數對密封囊袋時，各對會有不同的容積。在壓縮機中，第二區的壓力比第一區高且物理位置是在裝置中央，第一區則位於裝置外圍。</p>
+<p general="0004" id= "_00006">有兩種接觸方式界定形成於渦捲構件之間的流體囊袋：由徑向力(“腹面密封”)所造成的在螺旋面之間或繞線腹面之間的軸向延伸的切線接觸，以及由在各繞線的平面邊界曲線(“頂端”)與對面端板(“頂端密封”)之間的軸向力所造成的面接觸。為得高效率，兩種接觸必需要有良好的密封。</p>
+<p general="0005" id= "_00007">因此，渦捲型裝置的概念已知有一段時日且經確認有明顯的優點。例如，渦捲機械有高等熵性與容積效率，從而在給定容量下相對小且輕。由於不使用大型的往復另件(例如，活塞、連接桿、等等)而且所有流體在一個方向流動以及同步壓縮多個相對囊袋而產生較少壓力生成的振動，故比許多壓縮機安靜且振動更少。由於使用相對少數的移動另件、渦捲之間的移動速度相對低、以及本質上對流體污染有寬容性，故此等機械也傾向高度可靠性與耐久性。</p>
+<p general="0006" id= "_00008">一渦捲構件相對於另一渦捲構件的繞動會產生不平衡，通常要用一或更多平衡錘予以抵消。當設計新型壓縮機且/或重新設計和修改現存壓縮機時，有時需要設計新型的平衡錘。當為特定應用而需要最佳化平衡錘的質量時，通常需要新型的平衡錘。每次新平衡錘需要新質量時，必需開發新模具用於有特定質量之平衡錘。開發模具則需要開發時間以及與新模具有關的資本成本。</p>
+</background-art>
+<disclosure><heading level="1">發明概要</heading>
+<p general="0007" id= "_00009">本發明以一種包含凹槽之平衡錘提供本技藝。可改變凹槽的尺寸及/或深度而改變平衡錘的質量。因此，藉由改變平衡錘中之凹槽的尺寸及/或深度而可將有共通外形尺寸的平衡錘做成各種質量以符合平衡錘的要求質量。不同質量的平衡錘仍可保持共通外形尺寸，當使用不同質量之平衡錘時，這可排除將平衡錘裝配至待修改及/或改變的壓縮機組件之裝配線的模具作業(tooling)需要。</p>
+<p general="0008" id= "_00010">由以下的詳細說明可更加明白本發明可應用的其他領域。應瞭解，這些詳述及特定實施例，儘管為本發明較佳實施例，只擬供圖解說明之目的且不是要用來限定本發明範疇。</p>
+<heading level="1">圖式簡單說明</heading>
+<p general="0009" id= "_00011">由以下的詳細描述及附圖可更加明白本發明。</p>
+<p general="0010" id= "_00012">第1圖係圖示通過一包含本發明可變質量平衡錘的渦捲型致冷壓縮機之中心線的垂直橫截面圖；第2圖為第1圖平衡錘以及用來製造該平衡錘的模具或沖模的俯視透視圖；第3圖為圖示於第2圖的平衡錘與模具或沖模的仰視透視圖；第4圖為類似於第3圖的視圖，但圖示有不同質量之平衡錘；第5圖係根據本發明另一實施例，圖示平衡錘與成形模具或沖模的仰視透視圖；第6圖為生產第1與2圖平衡錘的模具組件之透視圖；以及第7圖為為生產第5圖平衡錘的模具組件之透視圖。</p>
+</disclosure>
+<mode-for-invention><heading level="1">較佳實施例之詳細說明</heading>
+<p general="0011" id= "_00013">以下較佳實施例之詳細說明本質上只具示範性，且決不是要用來限定本發明及其應用或用途。</p>
+<p general="0012" id= "_00014">本發明平衡系統可應用於任何種類之旋轉裝置。單就示範目的而言，以下是結合旋轉壓縮機，且特別是結合渦捲型冷媒壓縮機(refrigerant compressor)說明本發明。</p>
+<p general="0013" id= "_00015">請參考諸圖，其中相同元件以相同的元件符號表示。第1圖係圖示一包含本發明平衡系統之渦捲壓縮機，元件符號為10。壓縮機10包含一大體為圓柱形的密封外殼12，其係具有焊接於其上端的蓋體14以及在其下端的有多個整體成型腳架(未圖示)的基部16(未圖示)。蓋體14設有一其中有普通排氣閥(未圖示)的冷媒出口配件18。其他固定於外殼的元件包含橫向延伸的隔板22，在蓋體14焊於外殼12的周邊同一點也焊上一主軸承殼體24以適當固定於外殼12以及一個也有多個徑向向外延伸足體的下軸承殼體26，各個足體也適當固定於外殼12。將一馬達靜子28，通常有方形、邊角修圓的橫截面，壓接至外殼12。靜子上圓角之間的平坦部份提供靜子與外殼之間的通道，以利潤滑劑由外殼頂部回流至底部。</p>
+<p general="0014" id= "_00016">有偏心曲柄銷(crank pin)32於其上端的驅動軸或曲軸30在主軸承殼體24軸承34中以及在下軸承殼體26第二軸承36中，均為軸頸旋轉。曲軸30在下端有一直徑相對大的同心膛孔(bore)38，其係與一徑向向外被包著、從彼向上延伸至曲軸30上方、直徑較小的膛孔40相通。置於膛孔38內的是攪拌器42。外殼12內側下半部界定一油槽44，其係填滿潤滑油達稍高於轉子46下端的水平；且膛孔38作為泵浦可將潤滑流體抽上曲軸30且至膛孔40內，最後到達所有壓縮機需要潤滑的各部份。</p>
+<p general="0015" id= "_00017">包含靜子28、穿過靜子的內部繞組48以及壓接至曲軸30且各有上下平衡錘50、52的轉子46的電動馬達旋轉驅動曲軸30。</p>
+<p general="0016" id= "_00018">主軸承殼體24的上表面設有一平坦型止推軸承表面54，其上設置一繞動渦捲構件56，有普通螺旋葉片或繞線58於其上表面。由繞動渦捲構件56下表面向下突出的為一圓柱形轂，其中係具有一軸頸軸承(journal bearing)60，且其中旋轉配置一有內膛孔64的驅動襯套62，推進式安裝曲柄銷32於該內膛孔64內。曲柄銷32有一平坦表面，其係推進式接合於一形成於一部份膛孔64的平坦表面(未圖示)以提供一徑向相容推進的配置(radially compliant driving arrangement)，如美國專利第4,877,382號所示，從而其揭示內容併入本文作為參考貲料。也提供一歐丹聯結器(Oldham coupling)66，位於繞動渦捲構件56與主軸承殼體24之間，且鎖上繞動渦捲構件56與不繞動渦捲構件68以防止繞動渦捲構件56的旋轉移動。歐丹聯結器66為美國專利第5,320,506號中所揭示的類型較佳，從而其揭示內容併入本文作為參考資料。</p>
+<p general="0017" id= "_00019">也設有不繞動渦捲構件68，其係具有一定位成與繞動渦捲構件56之繞線58嚙合的繞線70。不繞動渦捲構件68有一置於中央的排氣通路72，其係與開口向上的凹槽74相通，接著與一由蓋體14與隔板22界定的排氣消音室76流體相通。在其中配置一密封組件80的不繞動渦捲構件68中也形成一環狀凹槽78。凹槽74、78與密封組件80合作以界定數個容納用繞線58、70壓縮的加壓流體的軸向偏壓室以便施加軸向力於不繞動渦捲構件68藉以迫使各繞線58、70的頂端與對面端板表面成為密封接合。密封組件80為在美國專利第5,156,539號中所詳述的類型較佳，從而其揭示內容併入本文作為參考資料。不繞動渦捲構件68係經設計成可以適當方式安裝至主軸承殼體24，例如在前述美國專利第4,877,382或美國專利第5,102,316號中所揭示的方式，從而其揭示內容併入本文作為參考資料。</p>
+<p general="0018" id= "_00020">請參考第2與3圖，其係詳細圖示該上平衡錘50。儘管本發明的描述與上平衡錘50有關，若需要，將上平衡錘50的可變質量特徵加入下平衡錘52是仍在本發明範疇內的。</p>
+<p general="0019" id= "_00021">上平衡錘50為梯狀且包含一半圓C形區段或主體90，其係具有環形對立的端面92與一對對立的環形伸出的凸緣部份94，各包含一用來將平衡錘50固定於轉子46的開口96。C形區段90在端面92之間有一拱形體部份，端面92則環形延伸為圓弧，角度達180度(但不超過)以便整體置於沿著轉子46旋轉軸延伸的平面之一面上。凸緣部份94從端面92接合處環形延伸以界定一角度超過180度的延伸部份。</p>
+<p general="0020" id= "_00022">C形區段90界定一腔室或凹槽98，其係用來實現平衡錘50的指定質量。凹槽98延伸為指定的圓弧且有指定的深度。可用可互換的模心100(第6圖)改變圓弧的長度與凹槽的深度，模心100係插入用來製造平衡錘50的模具或沖模102(第6圖)。此外，可形成一或更多肋部104以伸入凹槽98而調整平衡錘50的質量為指定的質量。圖示於第4圖的平衡錘50’，其質量比平衡錘50的質量多，因為凹槽98的圓弧較短、凹槽98的深度較淺、一或更多肋部104增加。有不同的模心或銷體100即可實現。平衡錘50與50’的外部組態都相同，因此兩種平衡錘50與50’都可用相同的模具或沖模102(第6圖)製造，而不同的模心100用來界定不同尺寸的凹槽98。當壓縮機10的操作特性改變時，平衡錘50’可取代平衡錘50，而改變需要重新平衡的壓縮機10的操作特性。</p>
+<p general="0021" id= "_00023">請參考第5圖，其係根據本發明另一具體實施例圖示的平衡錘150。平衡錘150與平衡錘50相同，除了將凹槽98換成多個孔洞198。多個孔洞198係沿著C形區段90作環形排列且各有指定的深度。用有不同數目及長度的銷體200的模心200(第7圖)可改變孔洞198的數目與各孔洞198的深度，其係將銷體200插入用來製造平衡錘150的模具或沖模102(第7圖)。</p>
+<p general="0022" id= "_00024">因此，可將有共通外形尺寸的平衡錘製造成有不同的質量。這種特性降低與附加工廠資本有關的成本。先前技術藉由改變高度及/或直徑而改變平衡錘的設計，因此在使用不同質量的平衡錘時需要修改或更換平衡錘用之組裝模具。藉由使多個平衡錘質量之外形尺度共通化，可用單一一套組裝設備於所有多個之平衡錘質量。</p>
+<p general="0023" id= "_00025">本發明的描述本質上只具示範性，因此希望不脫離本發明要旨的改變仍在本發明範疇內。此等改變不應被視為是脫離本發明之精神與範疇。</p>
+</mode-for-invention>
+<description-of-drawings><description-of-element><p general="0024" id= "_00026">10．．．渦捲壓縮機</p>
+<p general="0025" id= "_00027">12．．．密封外殼</p>
+<p general="0026" id= "_00028">14．．．蓋體</p>
+<p general="0027" id= "_00029">16．．．基部</p>
+<p general="0028" id= "_00030">18．．．冷媒出口配件</p>
+<p general="0029" id= "_00031">22．．．隔板</p>
+<p general="0030" id= "_00032">24．．．主軸承殼體</p>
+<p general="0031" id= "_00033">26．．．下軸承殼體</p>
+<p general="0032" id= "_00034">28．．．馬達靜子</p>
+<p general="0033" id= "_00035">30．．．驅動軸或曲軸</p>
+<p general="0034" id= "_00036">32．．．偏心曲柄銷</p>
+<p general="0035" id= "_00037">34．．．軸承</p>
+<p general="0036" id= "_00038">36．．．第二軸承</p>
+<p general="0037" id= "_00039">38．．．膛孔</p>
+<p general="0038" id= "_00040">40．．．膛孔</p>
+<p general="0039" id= "_00041">42．．．攪拌器</p>
+<p general="0040" id= "_00042">44．．．油槽</p>
+<p general="0041" id= "_00043">46．．．轉子</p>
+<p general="0042" id= "_00044">48．．．內部繞組</p>
+<p general="0043" id= "_00045">50．．．上平衡錘</p>
+<p general="0044" id= "_00046">52．．．下平衡錘</p>
+<p general="0045" id= "_00047">54．．．平坦型止推軸承表面</p>
+<p general="0046" id= "_00048">56．．．繞動渦捲構件</p>
+<p general="0047" id= "_00049">58．．．普通螺旋葉片或繞線</p>
+<p general="0048" id= "_00050">60．．．軸頸軸承</p>
+<p general="0049" id= "_00051">62．．．驅動襯套</p>
+<p general="0050" id= "_00052">64．．．膛孔</p>
+<p general="0051" id= "_00053">66．．．歐丹聯結器</p>
+<p general="0052" id= "_00054">68．．．不繞動渦捲構件</p>
+<p general="0053" id= "_00055">70．．．繞線</p>
+<p general="0054" id= "_00056">72．．．排氣通路</p>
+<p general="0055" id= "_00057">74．．．凹槽</p>
+<p general="0056" id= "_00058">76．．．排氣消音室</p>
+<p general="0057" id= "_00059">78．．．環狀凹槽</p>
+<p general="0058" id= "_00060">80．．．密封組件</p>
+<p general="0059" id= "_00061">90．．．C形區段</p>
+<p general="0060" id= "_00062">92．．．端面</p>
+<p general="0061" id= "_00063">94．．．凸緣部份</p>
+<p general="0062" id= "_00064">96．．．開口</p>
+<p general="0063" id= "_00065">98．．．凹槽</p>
+<p general="0064" id= "_00066">100．．．模心</p>
+<p general="0065" id= "_00067">102．．．模具或沖模</p>
+<p general="0066" id= "_00068">104．．．肋部</p>
+<p general="0067" id= "_00069">150．．．平衡錘</p>
+<p general="0068" id= "_00070">198．．．孔洞</p>
+<p general="0069" id= "_00071">200．．．銷體</p>
+</description-of-element>
+<p general="0070" id= "_00072">第1圖係圖示通過一包含本發明可變質量平衡錘的渦捲型致冷壓縮機之中心線的垂直橫截面圖；第2圖為第1圖平衡錘以及用來製造該平衡錘的模具或沖模的俯視透視圖；第3圖為圖示於第2圖的平衡錘與模具或沖模的仰視透視圖；第4圖為類似於第3圖的視圖，但圖示有不同質量之平衡錘；第5圖係根據本發明另一實施例，圖示平衡錘與成形模具或沖模的仰視透視圖；第6圖為生產第1與2圖平衡錘的模具組件之透視圖；以及第7圖為為生產第5圖平衡錘的模具組件之透視圖。</p>
+</description-of-drawings>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種用於驅動軸的平衡錘，其係經設計可分別使用於多個有不同平衡條件的旋轉機械中之每一個，該平衡錘包含：一主體，其整體尺寸及形狀可配設於該等旋轉機械中之每一個內；以及一在該主體中之凹槽，該凹槽的容積係經選定以最佳化擬供該特定旋轉機械用之該平衡錘的總質量。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項之平衡錘，其中該凹槽包含數個孔洞。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第2項之平衡錘，其中該等孔洞之數目係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第2項之平衡錘，其中該等孔洞之深度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項之平衡錘，其中該凹槽為一長形腔室。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第5項之平衡錘，其中該腔室之長度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第5項之平衡錘，其中該腔室之深度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第5項之平衡錘，其中在該腔室中加入一肋部以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項之平衡錘，其中該驅動軸被一具有一靜子與一轉子的馬達驅動，該平衡錘係經設計成可
+連接於該轉子。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項之平衡錘，其中該主體為一拱形體。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第10項之平衡錘，其中該凹槽為一長形拱狀腔室。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項之平衡錘，其中該旋轉機械為一渦捲機械，其係包含：一第一渦捲構件，其係具有一第一端板與一由該第一端板向外突出的第一螺旋繞線；以及一第二渦捲構件，其係具有一第二端板與一由該第二端板向外突出的第二螺旋繞線，該第二渦捲繞線與該第一渦捲繞線相互嚙合；該驅動軸使得該等渦捲構件可彼此相對繞動，藉此該等螺旋繞線在一吸入壓力區與一排出壓力區之間會產生數個漸進式改變容積之囊袋。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種製造供驅動軸用之平衡錘的方法，該平衡錘係經設計可分別使用於多個有不同平衡條件的旋轉機械中之每一個，該方法係包含：提供一供鑄造一主體用之模具，該主體之整體尺寸及形狀可配設於該等旋轉機械中之每一個內；插進一模心於該模具內以在該主體內形成一凹槽，該凹槽將最佳化擬供該特定旋轉機械用之該平衡錘的總質量；以及鑄造該平衡錘。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第13項之方法，其中該模心形成數個孔洞。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第14項之方法，其中該等孔洞之數目係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第14項之方法，其中該等孔洞之深度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第13項之方法，其中該凹槽為一長形腔室。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第13項之方法，其中該模心具有一容積，該容積係經選定以形成將最佳化擬供該特定旋轉機械用之該平衡錘的總質量。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種平衡錘，係依據如申請專利範圍第13項之方法製造。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種壓縮機，其包含：一外殼；一設置在該外殼內之壓縮機構；一用以驅動該壓縮機構之驅動軸；一用以致動該驅動軸之馬達；以及用於該驅動軸之如申請專利範圍第19項之平衡錘。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該壓縮機構包括一第一渦捲構件以及一第二渦捲構件，該第一渦捲構件具有一第一端板與一由該第一端板向外突出的第一螺旋繞線，該第二渦捲構件具有一第二端板與一由該第二端板向外突出的第二螺旋繞線，該第二渦捲繞線與該第
+一渦捲繞線相互嚙合，其中該驅動軸使得該等渦捲構件可彼此相對繞動，藉此該等螺旋繞線在一吸入壓力區與一排出壓力區之間會產生數個漸進式改變容積之囊袋。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該馬達具有一靜子及一用以驅動該驅動軸之轉子，且該平衡錘具有一主體，該主體包括一在該主體中之凹槽及一對由該主體之相對側伸出之凸緣，各凸緣界定出一用以將該平衡錘連接於該轉子之孔洞。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該凹槽包含數個孔洞。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第23項之壓縮機，其中該等孔洞之數目係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第23項之壓縮機，其中該等孔洞之深度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該凹槽為一長形腔室。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第26項之壓縮機，其中該腔室之長度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第26項之壓縮機，其中該腔室之深度係經選定以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第26項之壓縮機，其中在該腔室中加入一肋部以提供該容積。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該驅動軸被一具有一靜子與一轉子的馬達驅動，該平衡錘係經設計成可
+連接於該轉子。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第20項之壓縮機，其中該主體為一拱形體。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第31項之壓縮機，其中該凹槽為一長形拱狀腔室。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings figure-labels="第1圖 " lang="tw"><p general="y" id= "_00073">10．．．渦捲壓縮機</p>
+<p general="y" id= "_00074">12．．．密封外殼</p>
+<p general="y" id= "_00075">14．．．蓋體</p>
+<p general="y" id= "_00076">16．．．基部</p>
+<p general="y" id= "_00077">18．．．冷媒出口配件</p>
+<p general="y" id= "_00078">22．．．隔板</p>
+<p general="y" id= "_00079">24．．．主軸承殼體</p>
+<p general="y" id= "_00080">26．．．下軸承殼體</p>
+<p general="y" id= "_00081">28．．．馬達靜子</p>
+<p general="y" id= "_00082">30．．．驅動軸或曲軸</p>
+<p general="y" id= "_00083">32．．．偏心曲柄銷</p>
+<p general="y" id= "_00084">34．．．軸承</p>
+<p general="y" id= "_00085">36．．．第二軸承</p>
+<p general="y" id= "_00086">38．．．膛孔</p>
+<p general="y" id= "_00087">40．．．膛孔</p>
+<p general="y" id= "_00088">42．．．攪拌器</p>
+<p general="y" id= "_00089">44．．．油槽</p>
+<p general="y" id= "_00090">46．．．轉子</p>
+<p general="y" id= "_00091">48．．．內部繞組</p>
+<p general="y" id= "_00092">50．．．上平衡錘</p>
+<p general="y" id= "_00093">52．．．下平衡錘</p>
+<p general="y" id= "_00094">54．．．平坦型止推軸承表面</p>
+<p general="y" id= "_00095">56．．．繞動渦捲構件</p>
+<p general="y" id= "_00096">58．．．普通螺旋葉片或繞線</p>
+<p general="y" id= "_00097">60．．．軸頸軸承</p>
+<p general="y" id= "_00098">62．．．驅動襯套</p>
+<p general="y" id= "_00099">64．．．膛孔</p>
+<p general="y" id= "_00100">66．．．歐丹聯結器</p>
+<p general="y" id= "_00101">68．．．不繞動渦捲構件</p>
+<p general="y" id= "_00102">70．．．繞線</p>
+<p general="y" id= "_00103">72．．．排氣通路</p>
+<p general="y" id= "_00104">74．．．凹槽</p>
+<p general="y" id= "_00105">76．．．排氣消音室</p>
+<p general="y" id= "_00106">78．．．環狀凹槽</p>
+<p general="y" id= "_00107">80．．．密封組件</p>
+<p general="y" id= "_00108">96．．．開口</p>
+</figure-drawings>
+<drawings lang=""><figure figure-labels="第1圖 "><img file="img-2/draw/094122888-a0202-03-0001-pic0000.gif" he="1281" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第2圖 "><img file="img-2/draw/094122888-a0202-03-0002-pic0000.gif" he="0642" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第3圖 "><img file="img-2/draw/094122888-a0202-03-0002-pic0001.gif" he="0865" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第4圖 "><img file="img-2/draw/094122888-a0202-03-0003-pic0000.gif" he="0825" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第5圖 "><img file="img-2/draw/094122888-a0202-03-0003-pic0001.gif" he="0743" id="i0005" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第6圖 "><img file="img-2/draw/094122888-a0202-03-0004-pic0000.gif" he="0678" id="i0006" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第7圖 "><img file="img-2/draw/094122888-a0202-03-0004-pic0001.gif" he="0810" id="i0007" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+</drawings>
+</invention-specification>

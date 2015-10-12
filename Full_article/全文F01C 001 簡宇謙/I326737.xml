@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification application-num="095130199" dtd-version="1.0.0" filing-date="0950817" ipc-mark="F01C1/08,17/02,F02F1/18" lang="tw" produced-by="applicant" receive-date=" " receive-num="0952050369-0" status="p"><abstract lang="tw"><abstract-dtext><p general="n" id="_00001">一種動能產生裝置，包括有一機殼，該機殼一側設置有一固定齒輪，該固定齒輪齒形朝內，相對在該固定齒輪內側設置有一活動齒輪，該活動齒輪齒形向外，使該固定齒輪與活動齒輪可相互嚙合傳動，且該固定齒輪與活動齒輪的齒輪比為3：2；另在機殼內部樞設有一傳動件，作為引擎動能輸出，該傳動件朝活動齒輪的軸心位置穿入並樞設有一傳動軸，使該傳動軸、活動齒輪皆包含在固定齒輪的體積範圍內，而活動齒輪外側固定連接有一飛輪，使該飛輪與活動齒輪同步轉動，該飛輪一端設置有施力軸，該施力軸上軸設有連桿，該連桿一端軸設在飛輪施力軸上，其另一端則軸設在汽缸的活塞上，使活塞在汽缸壁上往復運動，讓活塞經由連桿帶動飛輪與活動齒輪旋轉，以進行動能傳輸。</p>
+</abstract-dtext>
+</abstract>
+<description><invention-title lang="tw">動能產生裝置</invention-title>
+<technical-field><p general="0001" id="_00002">傳統的引擎運作模式如圖二十二所示，當汽缸燃燒時，係由汽缸活塞x1推動一傳動件x2帶動曲柄軸x3旋轉以產生動能輸出。但以傳動件x2而言，由於傳動件x2的活動方向具有相當大的側壓角度，故產生相當大的側向分力，造成整體動能的損耗；另外，傳統引擎在上死點時，其施力點x4與曲柄軸x3的慣性力量會相互抵消，不僅造成動能的損耗，更會引起震盪現象，導致引擎損壞，壽命減短。</p>
+<p general="0002" id="_00003">另外，傳統的引擎每一次行程必須經過進氣、壓縮、爆炸、排氣四項動作，此時曲柄已繞輸出軸轉動兩圈，即每一爆炸行程必須推動引擎輸出兩轉，故輸出扭力較低，因此引擎必須提高轉速，或是加大汽缸容量，方可提供較大的扭力給引擎使用。</p>
+<p general="0003" id="_00004">坊間有許多引擎的改良方案，如圖二十三所示之美國專利US 4,044,629，其曲柄軸5套置在一偏心輪8上，該偏心輪8則在外齒輪7中，當外齒輪7嚙合內齒輪15轉動時，藉由偏心輪8可修正軸心6的施力方向，以提高引擎效能；又如圖二十四之美國專利US 4,073,196，其中曲柄軸26以一懸臂40a連接一外齒輪43a繞行內齒輪44轉動，再由外齒輪軸心37進行動能傳輸，藉由懸臂40a調整軸心37的施力方向，以提高引擎效能。</p>
+<p general="0004" id="_00005">唯前述兩件習知技術仍無法完全解決傳統引擎的側壓損耗與震盪不穩的缺點。故其汽缸每一次爆炸仍須帶動引擎輸出兩轉，使該引擎轉速、體積無法縮減，而輸出的扭力仍然偏低。</p>
+<p general="0005" id="_00006">由此可見，該習知技術仍有改善空間，本案發明人即鑑於上述缺點，經由長期研究與檢討，終能研發完成本件動能產生裝置，期能提供業界更好的選擇。</p>
+</technical-field>
+<background-art><p general="0006" id="_00007">本發明係關於一種動能產生裝置，特別是指一種在有限空間下，減少側向分力損耗，增進輸出功率，具有低轉速、高扭力，以及減少震動的動能產生裝置。</p>
+</background-art>
+<disclosure><p general="0007" id="_00008">本發明之主要目的即在於提供一種動能產生裝置，其爆炸行程密集，可在較低的轉速下得到較高的輸出功率，形成低轉速、高扭力的結構。</p>
+<p general="0008" id="_00009">本發明之另一目的即在於提供一種動能產生裝置，其施力軸慣量角度變化較小，減少震盪、分力損耗，提高動能輸出。</p>
+<p general="0009" id="_00010">本發明之再一目的即在於提供一種動能產生裝置，其藉由內外套合方式，在有限空間內配置最多的汽缸，使其整體輸出動能大增。</p>
+<p general="0010" id="_00011">本發明之下一目的即在於提供一種動能產生裝置，其適用於各種立式、臥式引擎，甚至於空壓機結構或其它動力機械。</p>
+<p general="0011" id="_00012">本發明之又一目的即在於提供一種動能產生裝置，其汽缸配置可為多汽缸、多角度、多軌跡線分別運轉，使其輸出總力大增。</p>
+<p general="0012" id="_00013">可達成前述目的之動能產生裝置，包括有一機殼，該機殼一側設置有一固定齒輪，該固定齒輪齒形朝內，相對在該固定齒輪內側設置有一活動齒輪，該活動齒輪齒形向外，使該固定齒輪與活動齒輪可相互嚙合傳動，且該固定齒輪與活動齒輪的齒輪比為3：2；另在機殼內部樞設有一傳動件，作為引擎動能輸出，該傳動件朝活動齒輪的軸心位置穿入並樞設有一傳動軸，使該傳動軸、活動齒輪皆包含在固定齒輪的體積範圍內，而活動齒輪外側固定連接有一飛輪5，使該飛輪與活動齒輪同步轉動，該飛輪一端設置有施力軸，該施力軸上軸設有連桿，該連桿一端軸設在飛輪施力軸上，其另一端則軸設在汽缸的活塞上，使活塞在汽缸壁上往復運動，讓活塞經由連桿帶動飛輪與活動齒輪旋轉，以進行動能傳輸。</p>
+</disclosure>
+<mode-for-invention><p general="0013" id="_00014">請參閱圖一至圖四所示，本發明係提供一種動能產生裝置，主要包括有一機殼1、一固定齒輪2、一活動齒輪3、一傳動件4、一飛輪5與一連桿6。</p>
+<p general="0014" id="_00015">該固定齒輪2係設置在機殼1一側，其齒形朝內，該活動齒輪3則罩設在固定齒輪2內側，其齒形向外，使該固定齒輪2與活動齒輪3可相互嚙合傳動，且該固定齒輪2與活動齒輪3的齒輪比為3：2；而該傳動件4係樞設在機殼1內部並可轉動，以連接一輸出軸43作為引擎動能輸出；該傳動件4與機殼1接觸面設置有軸承41以利轉動，該傳動件4朝活動齒輪3的軸心位置穿入並樞設有一傳動軸42，使該傳動軸42、活動齒輪3皆包含在固定齒輪2的體積範圍內，而該活動齒輪3的軸心與傳動軸42接觸面亦設置有軸承44以利轉動；該飛輪5係固定連接在活動齒輪3外側，使該飛輪5與活動齒輪3同步轉動；該飛輪5一端設置有施力軸51，該連桿6則軸設在施力軸51上，各連桿6除一端軸設在飛輪施力軸51上，其另一端則軸設在汽缸(圖未示出)的活塞7a~7f上，使活塞7a~7f在汽缸壁上往復運動，讓活塞7a~7f經由連桿6帶動飛輪5與活動齒輪3旋轉，以進行動能傳輸。</p>
+<p general="0015" id="_00016">藉由前述的設計，以該活塞7a為例，其係由汽缸內爆炸所產生的動能帶動，經連桿6向施力軸51加壓，該飛輪5與活動齒輪3會以傳動軸42為軸進行轉動，使該飛輪5與活動齒輪3繞著固定齒輪2內緣旋轉，該傳動軸42則可作動力輸出。</p>
+<p general="0016" id="_00017">而本發明的特徵如圖六至圖十三所示，其具有傳動軸42、施力軸51，以及固定齒輪2和活動齒輪3的嚙合點9三處關鍵點；當活塞7a爆炸動能經連桿6加壓於施力軸51時，其慣量係同時由施力軸51向傳動軸42方向施壓(施力線01)，以及由嚙合點9反作用力向傳動軸42方向施壓(施力線02)，故傳動軸42輸出的力量遠大於習知結構；而該施力線01與施力線02之間宜形成一夾角，以利藉由槓桿原理將力量疊加，避免力量相互抵消。</p>
+<p general="0017" id="_00018">藉由前述結構，當活塞7a爆炸時，其動能經連桿6加壓於施力軸51上，而該連桿6的側壓角度變化非常小，使大部份慣量可作為推動活動齒輪3與飛輪5旋轉的動力，減少側向分力的浪費；當活動齒輪3繞行固定齒輪2轉動時，該活動齒輪3與飛輪5係朝反方向轉動，使該施力軸51形成如圖十四軌跡線a的形狀。</p>
+<p general="0018" id="_00019">藉由前述軌跡線a的描述，本發明可形成多汽缸、多角度與多軌跡的配置模式，如圖三、圖五、圖十四所示，其汽缸配置為兩個，各汽缸以傳動軸42、42a為軸呈60°配置，由於各施力軸51具有單獨之軌跡線，故運作時可平穩進行且不會發生撞擊，且各汽缸的動力具有加乘效果。</p>
+<p general="0019" id="_00020">另外，如圖二、圖四所示，對於一個六汽缸引擎而言，係以三個為一組來完成一動力行程，如圖四中的活塞7a、7c、7e位置，各汽缸以傳動軸呈120°配置，即每一汽缸擔負三分之一的動能輸出；當第一汽缸開始爆炸行程時，其活塞7a在上、下行程間活動的軌跡線a變化如圖六至圖八所示，此慣量路徑產生如圖十四所示的慣量行程軌跡區段s，此慣量行程軌跡區段s近似直線，可將連桿6的大部份慣量施予活動齒輪3轉動，減少側向分力t的損耗；而當活塞7a到達行程末端減緩活動時，其軌跡線a變化如圖九、圖十所示，該連桿6會偏向第二汽缸處推進，對第二汽缸進行壓縮；然後該第二汽缸進入爆炸行程如圖十一至圖十三，使該第二汽缸的活塞7b對第三汽缸進行壓縮，此時第一汽缸的活塞7a倒退以進行排氣；如此，當活塞7產生最大慣量推力時，可將大部份慣量推力施予活動齒輪3進行轉動，故可大幅提高本發明的動能輸出。前述活塞7b、7d、7f則形成另一動力行程，其軌跡線與7a、7c、7e相差60°角度。</p>
+<p general="0020" id="_00021">再者，傳統引擎必須進行進氣、壓縮、爆炸、排氣四項動作來完成一次行程，即引擎每輸出一轉僅為1/2次爆炸的力量，故引擎轉速要更快，且輸出扭力較低；而本發明每一動力行程係同時配置三個汽缸，各汽缸依序進行爆炸，即每次爆炸僅轉動120°，其力量相當龐大，加上本發明損失動能較低，故本發明可達到低轉速、高扭力的功能。</p>
+<p general="0021" id="_00022">另外，經由前述完成之本發明動能產生裝置，主要係應用在引擎中，反之，本發明亦可由其它動力裝置推動傳動軸42旋轉，再將動力經由活動齒輪3、飛輪5、施力軸51、連桿6，最後由活塞7a壓縮汽缸進行能量輸出，即應用在空壓機結構中，此空壓機需調高施力軸51高度，形成如圖十五的軌跡線b，讓動能得輸回活塞7進行壓縮輸出能量。又，本發明的汽缸數係以三的倍數量設計，若減少其數量，使其平衡感下降，則會產生震動效果，亦可應用在按摩椅或震動裝置等結構中。當然，亦可如圖十六所示因施力軸51高度調低形成的軌跡線c，端看使用者需要。</p>
+<p general="0022" id="_00023">請參閱圖十七、圖十八所示，本發明的汽缸以及其活塞7a~7f、連桿6係以三的倍數設置，如圖式之六汽缸結構，可分配成兩組對稱並轉動180°角設置在機殼1兩端，並使相對稱的汽缸進行相同之行程，藉以平衡並加倍力量旋轉活動齒輪3，此結構適用於汽缸平躺的立式引擎，故本發明可適用於各種立式、臥式引擎甚至於空壓機中。</p>
+<p general="0023" id="_00024">另請參閱圖十九、圖二十所示為單一施力軸51配合兩個汽缸的設置模式，如圖中A、A’與B、B’的位置，各施力軸51上的汽缸為同一軌跡，僅偏轉一角度。因此，綜合以上結構，本發明的動力配置可為多汽缸、多角度、多軌跡線方式，使其適用在各種立式、臥式或其它引擎，以及各種空壓機、按摩機、震動裝置等。</p>
+<p general="0024" id="_00025">又如圖二十一所示，其中該傳動件4可設置有傳動齒輪45，該傳動軸42則設有軸心齒輪46，該傳動齒輪45與軸心齒輪46嚙合傳動，故汽缸動力係由活動齒輪3同步帶動軸心齒輪46旋轉，經由傳動齒輪45進行動力傳輸。而該傳動齒輪45與軸心齒輪46的齒數可以調整，以變化轉動速度，藉以得到所需的速度與力量，以適合不同的使用目的。</p>
+<p general="0025" id="_00026">前述活塞7a位於行程始點時，該傳動軸42或軸心齒輪46得預先偏轉有一角度，使該施力線01與施力線02之間形成一夾角，使施力線01與施力線02產生力量疊加效果。</p>
+<p general="0026" id="_00027">上列詳細說明係針對本發明之一可行實施例之具體說明，惟該實施例並非用以限制本發明之專利範圍，凡未脫離本發明技藝精神所為之等效實施或變更，均應包含於本案之專利範圍中。</p>
+</mode-for-invention>
+<description-of-drawings><description-of-element><p general="0027" id="_00028">1．．．機殼</p>
+<p general="0028" id="_00029">2．．．固定齒輪</p>
+<p general="0029" id="_00030">3．．．活動齒輪</p>
+<p general="0030" id="_00031">4．．．傳動件</p>
+<p general="0031" id="_00032">41．．．軸承</p>
+<p general="0032" id="_00033">42,42a．．．傳動軸</p>
+<p general="0033" id="_00034">43．．．輸出軸</p>
+<p general="0034" id="_00035">44．．．軸承</p>
+<p general="0035" id="_00036">45．．．傳動齒輪</p>
+<p general="0036" id="_00037">46．．．軸心齒輪</p>
+<p general="0037" id="_00038">5．．．飛輪</p>
+<p general="0038" id="_00039">51．．．施力軸</p>
+<p general="0039" id="_00040">6．．．連桿</p>
+<p general="0040" id="_00041">7a~7f．．．活塞</p>
+<p general="0041" id="_00042">9．．．嚙合點</p>
+<p general="0042" id="_00043">01,02．．．施力線</p>
+<p general="0043" id="_00044">a,b,c．．．軌跡線</p>
+<p general="0044" id="_00045">s．．．慣量行程區段</p>
+<p general="0045" id="_00046">t．．．軌跡區段</p>
+<p general="0046" id="_00047">x1．．．活塞</p>
+<p general="0047" id="_00048">x2．．．傳動件</p>
+<p general="0048" id="_00049">x3．．．曲柄軸</p>
+<p general="0049" id="_00050">x4．．．施力點</p>
+</description-of-element>
+<p general="0050" id="_00051">請參閱以下有關本發明一較佳實施例之詳細說明及其附圖，將可進一步瞭解本發明之技術內容及其目的功效；有關該實施例之附圖為：圖一為本發明的結構立體圖；圖二為本發明的結構正視圖；圖三為本發明的雙汽缸配置結構側視圖；圖四為本發明含活塞、連桿的結構正視圖；圖五為本發明的雙汽缸活動軌跡圖；圖六~圖十三為本發明的動作順序圖；圖十四為本發明的運動軌跡分析圖；圖十五為本發明的施力軸高度調高軌跡分析圖；圖十六為本發明的施力軸高度調低軌跡分析圖；圖十七為本發明的結構變化例正視圖；圖十八為本發明的結構變化例側視圖；圖十九為本發明的另一結構變化例側視圖；圖二十為本發明的另一結構變化例正視圖；圖二十一為本發明的傳動結構變化例圖；圖二十二為習知曲柄軸汽缸的動作示意圖；圖二十三為US 4,044,629的結構示意圖；以及圖二十四為US 4,073,196的結構示意圖。</p>
+</description-of-drawings>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種動能產生裝置，包括有一機殼、一固定齒輪、一活動齒輪、一傳動件、一飛輪與一連桿，其特徵在於：該固定齒輪係設置在機殼一側，其齒形向內，該活動齒輪則罩設在固定齒輪內側，其齒形向外，並使該固定齒輪與活動齒輪嚙合傳動，且該固定齒輪與活動齒輪的齒輪比為3：2；該傳動件係樞設在機殼內部而可轉動，該傳動件朝活動齒輪的軸心位置穿入並樞設有一傳動軸，使該傳動軸、活動齒輪皆包含在固定齒輪的體積範圍內；而該飛輪係固定連接在活動齒輪外側，該飛輪一端設置有施力軸，該連桿則軸設在施力軸上，各連桿除一端軸設在飛輪施力軸上，其另一端則軸設在汽缸的活塞上；藉此，該施力軸運動的軌跡線側壓角度變化非常小，減少側向分力的浪費。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述的動能產生裝置，其中該汽缸數為三的倍數，並以每三個為一組並排設置，且每一組的三個汽缸互呈120°的角度配置。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述的動能產生裝置，其中該活塞位於行程始點時，該傳動軸預先偏轉有一角度。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述的動能產生裝置，其中該施力軸高度可調整，以改變軌跡線。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項所述的動能產生裝置，其中該傳動件設置有傳動齒輪，該傳動軸則設有軸心齒輪，藉由傳動齒輪與軸心齒輪嚙合以傳輸動力。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第5項所述的動能產生裝置，其中該傳動齒輪與軸心齒輪的齒數可以調整，以變化轉動速度。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings figure-labels="第二圖 " lang="tw"><p general="y" id="_00052">2．．．固定齒輪</p>
+<p general="y" id="_00053">3．．．活動齒輪</p>
+<p general="y" id="_00054">4．．．傳動件</p>
+<p general="y" id="_00055">42,42a．．．傳動軸</p>
+<p general="y" id="_00056">7a~7f．．．活塞</p>
+</figure-drawings>
+<drawings lang=""><figure figure-labels="圖一 "><img file="img-2/draw/095130199-a0101-03-0001-pic0000.gif" he="0715" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖二 "><img file="img-2/draw/095130199-a0101-03-0002-pic0000.gif" he="0609" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖三 "><img file="img-2/draw/095130199-a0101-03-0002-pic0001.gif" he="1272" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖四 "><img file="img-2/draw/095130199-a0101-03-0003-pic0000.gif" he="0641" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖五（代表圖） "><img file="img-2/draw/095130199-a0101-03-0004-pic0000.gif" he="1006" id="i0005" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖六"><img id="i0001" wi="0900" he="1318" file="img-2/draw/095130199-a0305-03-0005-1.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖七"><img id="i0002" wi="0900" he="1275" file="img-2/draw/095130199-a0305-03-0005-2.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖八"><img id="i0003" wi="0900" he="1307" file="img-2/draw/095130199-a0305-03-0006-4.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖九"><img id="i0004" wi="0900" he="1249" file="img-2/draw/095130199-a0305-03-0006-5.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖十"><img id="i0005" wi="0900" he="1153" file="img-2/draw/095130199-a0305-03-0007-6.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖十一"><img id="i0006" wi="0900" he="1197" file="img-2/draw/095130199-a0305-03-0007-7.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖十二"><img id="i0007" wi="0900" he="1275" file="img-2/draw/095130199-a0305-03-0008-9.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖十三"><img id="i0008" wi="0900" he="1253" file="img-2/draw/095130199-a0305-03-0008-10.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖十四 "><img file="img-2/draw/095130199-a0101-03-0009-pic0000.gif" he="1212" id="i0014" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="900"/></figure>
+<figure figure-labels="圖十五 "><img file="img-2/draw/095130199-a0101-03-0009-pic0001.gif" he="1250" id="i0015" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖十六 "><img file="img-2/draw/095130199-a0101-03-0009-pic0002.gif" he="1040" id="i0016" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="805"/></figure>
+<figure figure-labels="圖十七 "><img file="img-2/draw/095130199-a0101-03-0010-pic0000.gif" he="1178" id="i0017" img-content="drawing" img-format="gif" inline="yes" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖十八 "><img file="img-2/draw/095130199-a0101-03-0011-pic0000.gif" he="1195" id="i0018" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖十九 "><img file="img-2/draw/095130199-a0101-03-0012-pic0000.gif" he="1040" id="i0019" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖二十 "><img file="img-2/draw/095130199-a0101-03-0012-pic0001.gif" he="0929" id="i0020" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖二十一 "><img file="img-2/draw/095130199-a0101-03-0013-pic0000.gif" he="1303" id="i0021" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖二十二 "><img file="img-2/draw/095130199-a0101-03-0014-pic0000.gif" he="1225" id="i0022" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="圖二十三 "><img file="img-2/draw/095130199-a0101-03-0015-pic0000.gif" he="1091" id="i0023" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0899"/></figure>
+<figure figure-labels="圖二十四 "><img file="img-2/draw/095130199-a0101-03-0015-pic0001.gif" he="1148" id="i0024" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+</drawings>
+</invention-specification>

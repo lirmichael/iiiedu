@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<utility-model-specification application-num="103215356" dtd-version="1.0.0" lang="tw" produced-by="applicant" receive-date=" " receive-num="1032050658-0" status="p"><abstract lang="tw"><abstract-dtext><p general="n" id="_00001">一種超音波清潔裝置，包括一驅動軸，係受外力驅動旋轉；一刷體係固接該驅動軸，而受該驅動軸驅使轉動；以及一超音波產生器，係連接該驅動軸，該超音波產生器係產生超音波並傳遞超音波至該驅動軸，再由該驅動軸將超音波傳遞至該刷體。藉由，本創作中驅動軸驅動刷體進行板材清潔，加上超音波產生器產生超音波傳遞至刷體，可以增強刷體對於板材的清潔效果。</p>
+</abstract-dtext>
+</abstract>
+<description><utility-model-title lang="tw">超音波清潔裝置</utility-model-title>
+<technical-field><p general="0001" id="_00002">本創作係與清潔裝置有關，特別是一種超音波清潔裝置，其適用於板材之清潔作業。</p>
+</technical-field>
+<background-art><p general="0002" id="_00003">按，對於板材而言，如晶圓或玻璃基板，一般的清洗過程包含有乾式及濕式。對於乾式清洗而言，係透過紫外光(UV light)照射板材使得附著於板材的有機物質可以與氧反應產生一氧化碳、二氧化碳或水汽飄散置空氣中而去除。而對於濕式清洗，主要係利用刷子搭配純水或洗劑，除去板材上的微粒汙染、有機物汙染和離子汙染等問題。其原理係利用刷子進行板材清洗，可讓刷毛將表面附著的微粒刷除。然而，無論是毛刷如何配置，對於板材仍存汙染殘存的問題。</p>
+</background-art>
+<disclosure><p general="0003" id="_00004">有鑑於此，本創作之主要目的係改善上述板材汙染殘存的問題，而提供一種超音波清潔裝置。</p>
+<p general="0004" id="_00005">本創作提供一種超音波清潔裝置，包括一驅動軸，係受外力驅動旋轉；一刷體係固接該驅動軸，而受該驅動軸驅使轉動；以及一超音波產生器，係連接該驅動軸，該超音波產生器係產生超音波並傳遞超音波
+至該驅動軸，再由該驅動軸將超音波傳遞至該刷體。</p>
+<p general="0005" id="_00006">藉由，本創作中驅動軸驅動刷體進行板材清潔，加上超音波產生器產生超音波傳遞至刷體，可以增強刷體對於板材的清潔效果。</p>
+</disclosure>
+<description-of-drawings><description-of-element><p general="0006" id="_00007">11‧‧‧驅動軸</p>
+<p general="0007" id="_00008">12‧‧‧刷體</p>
+<p general="0008" id="_00009">121‧‧‧孔洞</p>
+<p general="0009" id="_00010">13‧‧‧超音波產生器</p>
+</description-of-element>
+<p general="0010" id="_00011">第1圖係本創作第一實施例之立體示意圖。</p>
+<p general="0011" id="_00012">第2圖係本創作第一實施例之示意圖。</p>
+<p general="0012" id="_00013">第3圖係本創作第二實施例之示意圖。</p>
+<p general="0013" id="_00014">第4圖係本創作第三實施例之示意圖。</p>
+</description-of-drawings>
+<mode-for-invention><p general="0014" id="_00015">請參閱第1、2圖，本創作第一實施例所提供的超音波清潔裝置，包括：一驅動軸11、一刷體12和一超音波產生器13。</p>
+<p general="0015" id="_00016">該驅動軸11，呈圓柱狀。該驅動軸11，係受外力驅動旋轉，如馬達驅動。</p>
+<p general="0016" id="_00017">該刷體12係固接該驅動軸11，而受該驅動軸11驅使轉動。須說明的是，在本實施例中，該刷體12係套設在該驅動軸11上，並沿著該驅動軸11設置。</p>
+<p general="0017" id="_00018">該超音波產生器13，係連接該驅動軸11，該超音波產生器13係產生超音波並傳遞超音波至該驅動軸11，再由該驅動軸11將超音波傳遞至該刷體12。</p>
+<p general="0018" id="_00019">除此之外，請參閱的3圖，本創作第二實施例所提供的超音
+波清潔裝置，與第一實施例不同的是，該刷體12係由撓性材料製作而成，如塑膠、橡膠、海綿或布料等，而該刷體12之外表面分佈多數孔洞121。在使用時，被該刷體12所移除的板材表面雜質可進入各孔洞121而增強板材清潔的效果。</p>
+<p general="0019" id="_00020">再來，請參閱第4圖，本創作第三實施例所提供的超音波清潔裝置，其中該刷體12，係固接該驅動軸11一端，而受該驅動軸11驅動旋轉。</p>
+<p general="0020" id="_00021">於進行清洗板材作業時，本創作提供之超音波清潔裝置，其驅動軸11係驅動該刷體12旋轉，該刷體12接觸板材後進行清洗作業。該超音波產生器13產生超音波，該超音波產生器13係產生超音波並傳遞超音波至該驅動軸11，再由該驅動軸11將超音波傳遞至該刷體12。藉此，本創作中驅動軸11驅動刷體12進行板材清潔，加上超音波產生器產生超音波傳遞至刷體12，可以增強刷體12對於板材的清潔效果，以減少板材汙染殘存的問題。</p>
+</mode-for-invention>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種超音波清潔裝置，包括：一驅動軸，係受外力驅動旋轉；一刷體係固接該驅動軸，而受該驅動軸驅使轉動；以及一超音波產生器，係連接該驅動軸，該超音波產生器係產生超音波並傳遞超音波至該驅動軸，再由該驅動軸將超音波傳遞至該刷體。</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如請求項1所述之超音波清潔裝置，其中：該刷體係套設在該驅動軸上，並沿著該驅動軸設置。</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如請求項2所述之超音波清潔裝置，其中：該刷體之外表面分佈多數孔洞。</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如請求項1所述之超音波清潔裝置，其中：該刷體係固接該驅動軸一端。</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如請求項4所述之超音波清潔裝置，其中：該刷體之外表面分佈多數孔洞。</claim-text>
+</claim>
+</claims>
+<figure-drawings figure-labels="第1圖" lang="tw"><p general="n" id="_00022">11‧‧‧驅動軸</p>
+<p general="n" id="_00023">12‧‧‧刷體</p>
+<p general="n" id="_00024">13‧‧‧超音波產生器</p>
+</figure-drawings>
+<drawings lang="tw"><figure figure-labels="第1圖"><img alt="" file="img-2/draw/103215356-a0101-14-0001-1.jpg" he="0682" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第2圖"><img alt="" file="img-2/draw/103215356-a0101-14-0001-2.jpg" he="0805" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第3圖"><img alt="" file="img-2/draw/103215356-a0101-14-0002-3.gif" he="0780" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0899"/></figure>
+<figure figure-labels="第4圖"><img alt="" file="img-2/draw/103215356-a0101-14-0002-4.gif" he="0908" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+</drawings>
+</utility-model-specification>

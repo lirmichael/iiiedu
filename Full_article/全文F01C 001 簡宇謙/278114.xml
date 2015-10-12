@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification lang="tw" receive-num=" " receive-date=" " dtd-version="1.0.0" filing-date="0831017" application-num="083109615" ipc-mark="F04C 29/10" status="p" produced-by="applicant"><abstract lang="tw"><abstract-dtext><p id="_00001" general="n">一種平行調整總成，用於一含有一行星渦輪與一固定渦輪之渦形壓縮機，平行調整總成包含一殼體及一具有相對第一、二端之偏心導軸，一階級由偏心導軸在沿軸之中間位置界定之，一第一軸承固定於殼體上，第一軸承可旋轉安裝偏心導軸之第一端。偏心導軸可相對於第一軸承做軸向移動，一頂壓構件在一趨向固定渦輪之方向頂壓偏心導軸，一定位件固接於偏心導軸，其在推力方向精確定位偏心導輪。
+</p>
+</abstract-dtext>
+</abstract>
+<abstract lang="en"><abstract-dtext><p id="_00002" general="n">A parallel adjustment assembly is provided for a scroll compressor which includes an orbiting scroll and a fixed scroll. The parallel adjustment assembly includes a housing and an eccentric guide shaft having opposed first and second ends. A step is defined by the eccentric guide shaft at an intermediate position along the shaft. A first bearing is fixedly mounted on the housing. The first bearing rotatably mounts the first end of the eccentric guide shaft. The eccentric guide shaft is moveable axially with respect to the first bearing. A biasing member biases the eccentric guide shaft in a direction toward the fixed scroll. A positioner, which is made integral with the eccentric guide shaft, precisely positions the eccentric guide shaft in the thrust direction.
+</p>
+</abstract-dtext>
+</abstract>
+<description><invention-title lang="tw">渦形壓縮機之平行調整總成
+</invention-title>
+<invention-title lang="en">PARALLEL ADJUSTMENT ASSEMBLY FOR A SCROLL COMPRESSOR
+</invention-title>
+<background-art><p id="_00003" general="0001">本發明大致係關於渦形壓縮機，尤指一種調整總成而可提供渦形壓縮機行星渦輪與固定渦輪間之平行者。
+</p>
+<p id="_00004" general="0002">在一間隙式渦形壓縮機中，固定與行星渦輪之渦旋形輪廓係設計在極接近範圍內操作，但相互間並不接觸，二渦輪之間較大之間隙會造成壓縮空氣漏洩，增加壓縮機能量耗失，減少容量及減少壓縮機軸承之整體壽命。
+</p>
+<p id="_00005" general="0003">決定二渦旋輪廓間隙以防止渦輪接觸之變數為此二輪廓之平行，關於此點，習知之間隙式渦形壓縮機結構需要對壓縮機殼體、固定渦輪及行星渦輪做極精密之加工，以取得所需之平行，惟，此精密性在渦形壓縮機次總成之製造中會大幅增加製造成本。
+</p>
+<p id="_00006" general="0004">前文說明了有關間隙式渦形壓縮機之製造與操作要求，故最好能有一種經濟而有效率之裝置，可取得一渦形壓縮機二渦輪間之平行，藉此減少用在渦形壓縮機殼將、固定渦輪及行星渦輪加工上之製造成本，據此，文後即提供一適當裝置並詳述其特性。
+</p>
+</background-art>
+<disclosure><p id="_00007" general="0005">本發明之一項特性中，其係利用一渦形壓縮機之調整總成取得行星渦輪與固定渦輪間平行而達成之，調整總成包含一具有相對第一、二端之偏心導軸，偏心導軸之第二端固接於行星渦輪，一第一軸承具有一內轉圈及一外轉圈，可將偏心導軸之第一端旋轉安裝於一渦形壓縮機殼體內，偏心導軸可相對於第一軸承之內轉圈而沿一預定路徑做軸
+向移動，一頂壓構件在一趨向固定渦輪之方向沿路徑頂壓偏心導軸，此外，一固接於偏心導軸之定位件，可沿路徑而在一預定位置精確定位偏心導軸。
+</p>
+<p id="_00008" general="0006">上述及其他特性可由本發明以下之詳細說明並配合相關圖式而瞭解之。
+</p>
+</disclosure>
+<description-of-drawings><p id="_00009" general="0007">圖1 係一渦形壓縮機之局部截面圖，揭示本發明裝置。
+</p>
+<p id="_00010" general="0008">圖2 係圖1所示本發明裝置之放大圖。
+</p>
+<p id="_00011" general="0009">圖3 係一簡圖，揭示在渦形壓縮機行星渦輪上之本發明裝置之預定數量與預定位置。
+</p>
+</description-of-drawings>
+<heading level="1">詳細說明
+</heading>
+<p id="_00012" general="0010">請參閱諸圖式，諸圖中相似之參考數字係指對應之組件，圖1以10表示本發明之裝置，其安裝而操作於一間隙式渦形壓縮機12中，應瞭解的是雖然裝置10在本文係用在間隙式渦形壓縮機，但其亦可用於接觸式渦形壓縮機、真空泵或其他依螺旋原理而操作之位移機器。
+</p>
+<p id="_00013" general="0011">渦形壓縮機12包含一安裝在第一渦形壓縮機殼體15上之第一固定位移元件或固定渦輪14，固定渦輪14上設有一第一疊層或渦旋16，第二可移動元件或行星渦輪18則安裝執行傳動式圓周運動，即整個行星渦輪18皆沿一預定之圓周路徑移動，但並非依一軸線轉動；行星渦輪18上設有第二渦旋20，適可與第一渦旋16結合，第一、二渦旋16、20結合而構成有限範圍之螺旋區，當行星渦輪18相對於固定渦輪14而在其圓形路徑上移位時，此範圍可在徑向向外或向
+內移，以產生渦形壓縮機12之輸送或流體移位效果。
+</p>
+<p id="_00014" general="0012">一偏心驅動軸22安裝操作於第二渦形壓縮機殼體24中，一偏心驅動軸22由軸承26支承，操作期間，一習知之原動機例如電動馬達者(圖中未示)，其可結合一滑輪25或其他適當之結合構件如齒輪(圖中未示)，以令偏心驅動軸22依一軸線27旋轉。偏心驅動軸22備有一從動端，此端具有一安裝於一軸承30上之軸桿28，軸桿28可操作連接於行星渦輪18，以驅動行星渦輪沿預定圓形路徑移動。
+</p>
+<p id="_00015" general="0013">如習知技術者，圖1所示之渦形壓縮機或渦形流體機器中，為了確定行星渦輪18可相對於固定渦輪14沿預定圓形路徑移動而不自動旋轉，故需使用一被動之偏心導軸32執行相當於偏心驅動軸22偏心率之偏心轉動，因此，偏心導軸32在偏心驅動軸22之驅動旋轉後，跟著進行被動之偏心旋轉，此情況下雖可防止行星渦輪18之自動旋轉，亦控制了沿圓形路徑之移動，一般之渦形流體機器中，如圖3所示，有三支偏心導軸32依偏心驅動軸22做120°之對稱配置。
+</p>
+<p id="_00016" general="0014">圖2揭示圖1所示之本發明裝置10放大圖，裝置10容許一固定渦輪14及一行星渦輪18調整而達成互相平行，裝置10包含偏心導軸32、第一軸承34、頂壓構件37及定位件38。
+</p>
+<p id="_00017" general="0015">偏心導軸32包含分別相對之第一、二端40、42，第二端42固接於行星渦輪18，偏心導軸32上在第一、二軸端40、42中間位置處為一階級44，而在偏心導軸32第一端40中設
+有一螺孔45，以下將做詳細說明。
+</p>
+<p id="_00018" general="0016">第一軸承34具有一內轉圈34A及一外轉圈34B，其固定於殼體24內，在所示之裝置10實例中，第一軸承固定件35及一螺接件36將第一軸承34定位於殼體24內，第一軸承34依此方式旋轉安裝偏心導軸22之第一端40，令偏心導軸相對於內轉圈34A而沿一預定行徑做前後移動，本文中之預定行徑係定義為相對於固定渦輪之推力方向路徑，亦即一條平行於軸線27之路徑。一第二軸承46具有一內轉圈46A及一外轉圈46B，其固定於行星渦輪18上，在所示之裝置10實例中，第二軸承固定件48及一螺接件50將第二軸承定位於殼體24內，第二軸承46依此方式旋轉安裝偏心導軸32之第二端42，以令偏心導軸固接於行星渦輪，例如在所示實例中偏心導軸32之第二端42係&quot;壓接&quot;於內轉圈46A內。
+</p>
+<p id="_00019" general="0017">頂壓構件37在一趨向固定渦輪之方向頂壓偏心導軸32，所示之裝置10實例中，頂壓構件37包含一預定數量之貝爾威勒式華司，華司依偏心導軸32而定位於階級44及第一軸承34間之位置，渦形壓縮機12之操作期間，固定渦輪14與行星渦輪18間產生一壓力，此壓力以遠離固定渦輪14之方向施加負荷於行星渦輪18上，預定數量之貝爾威勒式華司產生總頂壓力於偏心導軸32，且大於固定與行星渦輪間之壓力所生之負荷。
+</p>
+<p id="_00020" general="0018">定位件38固接於導軸32，尤其在較佳實例中定位件38係以螺孔45螺接之螺接總成，一固定華司52設於螺接總成與
+第一軸承34間。
+</p>
+<p id="_00021" general="0019">如上所述，決定一間隙式渦形流體機器之二渦輪如間隙式渦形壓縮機12間所需間隙之變數，分別為第一、二渦旋16、20間之平行度，間隙式渦形壓縮機之習知結構需要壓縮機殼體、固定渦輪及行星渦輪之極精密加工，才能取得所需之平行度，但此精密度在渦形壓縮機次總成之製造中則會大幅增加製造成本，本發明提供一種經濟而有效之裝置，以取得固定渦輪14與行星渦輪18間之平行度。
+</p>
+<p id="_00022" general="0020">操作時，裝置10利用行星渦輪18對準或平行於固定渦輪14，以利減少間隙式渦形壓縮機製造中所需之精密，此項調整固定與行星渦輪間平行度之做法可用精確定位一或所有之偏心導軸32相對於第一軸承34內轉圈34A而達成，並利用放置一適當頂壓構件37於第一軸承與階級44之間即可，頂壓構件37在其標稱設計位置壓縮，以產生大於固定渦輪14與行星渦輪18間壓力所生最大軸承推力負荷之負荷，定位件38再以順或逆時針方向轉動，以沿著相對於內轉圈34A之行徑而在一預定位置定位偏心導軸32之第一端40，結果，偏心導軸32相對於內轉圈34A之定位可在一相對於固定渦輪14之預定位置將行星渦輪18定位。裝置10之調整可容許行星渦輪18分別在三個不同平面X、Y、Z定位，行星渦輪在X平面之調整可供行星渦輪18相對於軸線27之側向定位，行星渦輪在Y平面之調整可供行星渦輪18相對於軸線27之縱向定位，行星渦輪在Z平面之調整可供行星渦輪18相對於軸線27之預定行徑定位。
+</p>
+<p id="_00023" general="0021">本發明雖已依一較佳實例揭示及說明，但可知的是在不脫離本發明以下申請範圍下仍有多種變化及更換。
+</p>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種渦形壓縮機之調整總成，用於取得一行星渦輪與一固定渦輪間之平行，調整總成包含：一偏心導軸，具有相對之第一、二端，且其中第二端係固接於行星渦輪；一軸承，具有一內轉圈及一外轉圈，可旋轉安裝偏心導軸之第一端，偏心導軸可相對於內轉圈做軸向移動；及裝置，將偏心導軸定位於推力方向，定位裝置係固接於偏心導軸。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第1項之調整總成，其另包含一裝置，係將偏心導軸在趨向固定渦輪之方向頂壓。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第2項之調整總成，其中頂壓裝置包含預定數量之貝爾威勒式華司，其產生之總頂壓力大於固定與行星渦輪間壓力所產生之推力負荷。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第3項之調整總成，其中一階級由偏心導軸在沿軸之中間位置界定之，且其中預定數量之貝爾威勒式華司定位於階級與第一軸承之間。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第1項之調整總成，其中偏心導軸包含一螺孔，且其中將偏心導軸定位之裝置包含一螺接總成，係由偏心導軸之螺孔所螺接。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種渦形壓縮機之平行調整總成，壓縮機包含一行星渦輪及一固定渦輪，平行調整總成包含：一殼體；一偏心導軸，具有相對之第一、二端，且其中一階級
+由偏心導軸在沿軸之中間位置界定之；一第一軸承，固接於殼體上，第一軸承具有一內轉圈及一外轉圈，且可旋轉安裝偏心導軸之第一端，導軸可相對於內轉圈做軸向移動；一第二軸承，固接於行星渦輪上，第二軸承可旋轉安裝固接於行星渦輪之偏心導軸第二端；裝置，可在趨向固定渦輪之方向頂壓偏心導軸，頂壓裝置定位於階級與第一軸承之間；及裝置，可將偏心導軸精確定位於推力方向，定位裝置係固接於偏心導軸。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第6項之平行調整總成，其中頂壓裝置係預定數量之貝爾威勒式華司，其產生之總頂壓力大於固定與行星渦輪間壓力所生之推力負荷。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>根據申請專利範圍第6項之調整總成，其中偏心導軸包含一螺孔，且其中將偏心導軸定位之裝置包含一螺接總成，係由偏心導軸之螺孔所螺接。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種渦形壓縮機之調整總成，用於取得一行星渦輪與一固定渦輪間之平行，調整總成包含：一偏心導軸，具有相對之第一、二端，且其中第二端係固接於行星渦輪；一第一軸承，具有一內轉圈及一外轉圈，可旋轉安裝偏心導軸之第一端；裝置，係在趨向固定渦輪方向頂壓偏心導軸；及裝置，係將偏必導軸定位於推力方向，定位裝置固接於偏心導軸。
+</claim-text>
+</claim>
+</claims>
+<drawings lang="tw"><figure figure-labels="圖1"><img id="i0001" he="0929" wi="0900" file="img-2/draw/083109615-a0305-03-0001-1.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖2"><img id="i0002" he="0799" wi="0900" file="img-2/draw/083109615-a0305-03-0002-2.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="圖3"><img id="i0003" he="0838" wi="0900" file="img-2/draw/083109615-a0305-03-0002-3.gif" alt="" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</invention-specification>

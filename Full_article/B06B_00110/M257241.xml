@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?><utility-model-specification lang="tw" receive-num="-" receive-date=" " dtd-version="1.0.0" application-num="093208224" status="p" produced-by="applicant">
+<abstract lang="tw">
+<abstract-dtext>
+<p id="_0001" general="n">一種類超音波水振盪裝置，主要係包含一幫浦、一緩衝桶及一水槽，由水槽以進水管連接於幫浦，並使幫浦與緩衝桶相互連接，緩衝桶頂端設以一洩氣閥，底部則以另一導管回接至幫浦，緩衝桶則以出水管接至減壓閥再接入水槽，其中，該導管係設有一文氏管，於文氏管兩端分別設置控制閥以控制液體流速，而緩衝桶之出水口則連接一減壓閥，俾藉由幫浦將水帶至緩衝桶，經由導管之文氏管帶入氣體再帶入幫浦攪拌產生乳化，再利用減壓閥產生微氣泡群，而能於水槽中形成如超音波振盪之效果。
+</p>
+</abstract-dtext>
+</abstract>
+<description><utility-model-title lang="tw">類超音波水振盪裝置
+</utility-model-title>
+<technical-field>
+<p id="_0002" general="n">本創作係有關一種類超音波水振盪裝置，尤指一種利用水與空氣之混合，以及瞬間減壓產生如超音波之水振盪效果，以供洗滌、SPA、殺菌、水處理等使用之水振盪裝置。
+</p>
+</technical-field>
+<background-art>
+<p id="_0003" general="n">按；一般之氣泡產生裝置，通常係利用超音波振盪方式，使水於高頻率振動中形成微氣泡，此種方式由於需使用電子電路，使用上較不方便且成本高昂，而所產生之氣泡的含氧量亦不足。由是，有些業者以如圖一之方式，由幫浦30抽水再於加壓混合桶40經由空氣壓縮機50加壓之方式產生氣泡，此種方式由於直接加壓帶入水槽，因此易造成水槽內大迴流，使用上較多限制，殊不理想。
+</p>
+</background-art>
+<disclosure>
+<p id="_0004" general="n">本創作之主要目的，即在提供一種類超音波水振盪裝置，使水經由與空氣的混合以及瞬間之減壓，以達到類似超音波振盪之效果，且使所產生之微氣泡之含氧量提高。
+</p>
+<p id="_0005" general="n">前述之水振盪裝置，係設有一幫浦、一緩衝桶及一水槽，其中，該水槽係以進水管連接於幫浦，並使幫浦與緩衝桶相互銜接，緩衝桶底部則以另一導管回接至幫浦，而緩衝桶則以出水管接至水槽，該導管則設有一文氏管，並於緩衝桶之出水管設有一減壓閥，俾藉由幫浦將水帶至緩衝桶，緩衝桶頂端設一洩氣閥，以緩衝幫浦的加壓與減壓閥減壓的平衡，再經由導管之文氏管帶入空氣於幫浦高速攪拌形成乳化狀態，進而利用減壓閥產生氣泡群，而能於水槽中構成如超音波振盪之效果，且使所振盪出之微氣泡構成高含氧量。
+</p>
+<p id="_0006" general="n">前述之水振盪裝置，其中文氏管的兩端，係分別設有控制閥，以供調整水的流速進而控制氣體流量，以適用於各種不同型式之幫浦。
+</p>
+</disclosure>
+<mode-for-invention>
+<p id="_0007" general="n">請同時參閱第二、三、四、五圖，本創作主要包含一幫浦1、一緩衝桶2及一水槽3，其中，該幫浦1係以進水管11連接於水槽3，並由幫浦1以導管12與緩衝桶2銜接，緩衝桶2的底部則以另一導管21回接至幫浦1，並於該導管21設有一文氏管22，於文氏管22的兩端分別設以控制閥23、24，並於該緩衝桶2設以一連接於水槽3之出水管25，於出水管25設以一減壓閥26，緩衝桶2頂端則設有一洩氣閥27；該文氏管22係設有一管體221，於管體221內設以對稱之尖狀斜坡222、223，並由斜坡222、223之中央以另一直管224連接以形成之貫通狀態，俾由該直管224導入氣體；該減壓閥26係於管體261內設有一壁面262，於壁面262設以多數之透孔2621，壁面中心則突伸一螺桿263，壁面262周緣則沿伸一圓筒264，於圓筒264設以凹槽2641，該螺桿263則連接於一圓盤265，使圓盤265與圓筒264之凹槽2641形成間隙，進而使水由透孔2621流入後經間隙流出，以構成減壓效果；藉由前述構件的組合，構成一類超音波水振盪裝置，俾藉由幫浦1將水槽3中的水抽入後，送至緩衝桶加壓，使大部份的水經減壓閥26流至水槽3，小部份的水則由導管21回流至幫浦1，經由文氏管22帶入空氣與水相互混合(習知之技術無法於幫浦前加入氣體，因會產生空轉使幫浦故障)，再由幫浦1高速旋轉構成快速攪拌將氣、液充份乳化送至緩衝桶2，藉由減壓閥26瞬間擠壓以產生氣泡群送入水槽3，以構成微氣泡水振盪效果。
+</p>
+<p id="_0008" general="n">請參閱第六圖，本創作於實際操作時，係藉由幫浦1抽取水槽3中的水，再送至緩衝桶2，其中，大部份的水經由減壓閥26回至水槽3，而小部份的水則由底部之導管21利用緩衝桶2之壓力流速擠回幫浦1，於回流過程中，藉由文氏管22帶入空氣，形成氣、液混合以產生乳化，再經由幫浦1送至緩衝桶2，使已乳化的水經由緩衝桶2送至減壓閥26瞬間減壓以產生氣泡群送至水槽3，俾於水槽3中產生類似超音波之水振盪效果，而不會產生大迴流，且使微氣泡中含高氧量，以供洗滌、殺菌、SPA及水處理相關行業等使用。
+</p>
+<p id="_0009" general="n">本創作所產生的效果及其含氧量經由試驗證實可長時間保存，依試驗之方式，實驗設備包含：300公升之水槽(水溫攝氏26度) GRUMDFUSCRN1.5KW之幫浦 WTWOXI330/SET之溶氣測定儀(DO) 幫浦運轉時緩衝桶壓力約為6.5Kg，減壓後的壓力為0.15Kg(在大氣壓力下) 文氏管導入1.5公升/分鐘之氧氣，所實驗之結果為：
+</p>
+<p id="_0010" general="n">
+<tables num="1">
+<img id="i0001" he="789" wi="0900" file="img-2/table/drawimg-20080226-190307-00000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="yes"/>
+</tables>
+</p>
+<p id="_0011" general="n">依前述之實驗，本創作於停機24小時後，仍有17PPM之含氧量，證實水中含有較超音波振盪方式細小之氣泡，而每一氣泡均包覆有氧氣，故而本案之氣泡屬奈米級。
+</p>
+</mode-for-invention>
+<description-of-drawings>
+<description-of-element>
+<p id="_0012" general="y">1．．．幫浦
+</p>
+<p id="_0013" general="y">2．．．緩衝桶
+</p>
+<p id="_0014" general="y">3．．．水槽
+</p>
+<p id="_0015" general="y">11．．．進水管
+</p>
+<p id="_0016" general="y">12．．．導管
+</p>
+<p id="_0017" general="y">21．．．導管
+</p>
+<p id="_0018" general="y">22．．．文氏管
+</p>
+<p id="_0019" general="y">23．．．控制閥
+</p>
+<p id="_0020" general="y">24．．．控制閥
+</p>
+<p id="_0021" general="y">25．．．出水管
+</p>
+<p id="_0022" general="y">26．．．減壓閥
+</p>
+<p id="_0023" general="y">27．．．洩氣閥
+</p>
+<p id="_0024" general="y">30．．．幫浦
+</p>
+<p id="_0025" general="y">40．．．加壓桶
+</p>
+<p id="_0026" general="y">221．．．管體
+</p>
+<p id="_0027" general="y">222．．．斜坡
+</p>
+<p id="_0028" general="y">223．．．斜坡
+</p>
+<p id="_0029" general="y">224．．．直管
+</p>
+<p id="_0030" general="y">261．．．管體
+</p>
+<p id="_0031" general="y">262．．．壁面
+</p>
+<p id="_0032" general="y">263．．．螺桿
+</p>
+<p id="_0033" general="y">2621．．．透孔
+</p>
+<p id="_0034" general="y">264．．．圓筒
+</p>
+<p id="_0035" general="y">2641．．．凹槽
+</p>
+<p id="_0036" general="y">265．．．圓盤
+</p>
+</description-of-element>
+<p id="_0037" general="n">第一圖係習知氣泡產生器之立體圖。
+</p>
+<p id="_0038" general="n">第二圖係本創作之立體圖。
+</p>
+<p id="_0039" general="n">第三圖係本創作之配置方塊圖。
+</p>
+<p id="_0040" general="n">第四圖係本創作之文氏管剖面圖。
+</p>
+<p id="_0041" general="n">第五圖係本創作之減壓閥剖面圖。
+</p>
+<p id="_0042" general="n">第六圖係本創作之使用實施圖。
+</p>
+</description-of-drawings>
+</description>
+<claims>
+<claim dependency="independent-claim">
+<claim-text>一種類超音波水振盪裝置，主要包含一幫浦、一緩衝桶及一水槽，使該幫浦以進水管連接於水槽，並由幫浦以導管與緩衝桶銜接，緩衝桶的底部則以另一導管回接至幫浦前之進水管，並於該導管設有一文氏管，該緩衝桶則以一出水管連接至一減壓閥再連接至水槽，俾藉由幫浦將水槽中的水帶入緩衝桶，再經由導管回流至幫浦，經由文氏管帶入氣體以產生氣、液混合，進而由幫浦高速旋轉攪拌產生乳化再送至緩衝桶，藉由減壓閥瞬間減壓以產生高含氧量之氣泡群。
+</claim-text>
+</claim>
+<claim dependency="independent-claim">
+<claim-text>如申請專利範圍第1項所述之類超音波水振盪裝置，在其中，該設於導管之文氏管的兩端，係分別設有控制閥，以供調整水的流速，進而控制氣體流量，防止幫浦產生空轉。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings lang="tw" figure-labels="第一圖 ">
+<p id="_0043" general="y">1．．．幫浦
+</p>
+<p id="_0044" general="y">2．．．緩衝桶
+</p>
+<p id="_0045" general="y">3．．．水槽
+</p>
+<p id="_0046" general="y">11．．．進水管
+</p>
+<p id="_0047" general="y">12．．．導管
+</p>
+<p id="_0048" general="y">21．．．導管
+</p>
+<p id="_0049" general="y">22．．．文氏管
+</p>
+<p id="_0050" general="y">23．．．控制閥
+</p>
+<p id="_0051" general="y">24．．．控制閥
+</p>
+<p id="_0052" general="y">25．．．出水管
+</p>
+<p id="_0053" general="y">26．．．減壓閥
+</p>
+<p id="_0054" general="y">27．．．洩氣閥
+</p>
+</figure-drawings>
+<drawings lang="">
+<figure figure-labels="第一圖 ">
+<img id="i0002" he="0851" wi="0900" file="img-2/draw/093208224-a0305-03-0001-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第二圖 ">
+<img id="i0003" he="0904" wi="0900" file="img-2/draw/093208224-a0305-03-0002-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第三圖 ">
+<img id="i0004" he="1359" wi="0900" file="img-2/draw/093208224-a0305-03-0003-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第四圖 ">
+<img id="i0005" he="0998" wi="0900" file="img-2/draw/093208224-a0305-03-0004-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第五圖 ">
+<img id="i0006" he="1315" wi="0900" file="img-2/draw/093208224-a0305-03-0005-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第六圖 ">
+<img id="i0007" he="1321" wi="0900" file="img-2/draw/093208224-a0305-03-0006-pic0000.gif" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</utility-model-specification>

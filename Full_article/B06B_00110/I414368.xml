@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification application-num="094100146" dtd-version="1.0.0" filing-date="0940104" ipc-mark="B06B 1/00" lang="tw" produced-by="applicant" receive-date=" " receive-num=" " status="p"><abstract lang="tw"><abstract-dtext><p general="n" id= "_00001">一超音波換能器驅動器包括一大的磁致伸縮元件，用以在機械壓力下支持大的磁致伸縮元件之一扣件，用以備置一磁性偏動磁場的一第一磁場產生器，用以備置一磁性驅動磁場的一第二磁場產生器，以及用以在大的磁致伸縮元件中引導磁場的一磁性迴路。用於一接合裝置的一超音波換能器具有一角狀部，在其較小端上具有一接合工具，以及毗接在其上的一架設桶狀部。驅動器耦接至角狀部的較大端。</p>
+</abstract-dtext>
+</abstract>
+<abstract lang="en"><abstract-dtext><p general="n" id= "_00002">An ultrasonic transducer driver has a giant magnetostrictive element, a fastener for holding the magnetostrictive element under mechanical pressure, a first field generator for providing a magnetic bias field, a second field generator for providing a magnetic drive field and a magnetic circuit for channelling the magnetic fields in the magnetostrictive element. An ultrasonic transducer for a bonding apparatus has a horn having a bonding tool at its smaller end and a mounting barrel adjoined onto it. The driver coupled to the larger end of the horn.</p>
+</abstract-dtext>
+</abstract>
+<description><invention-title lang="tw">用於電線接合機之接合裝置</invention-title>
+<invention-title lang="en">Bonding Apparatus for Wire Bonding Machine</invention-title>
+<technical-field><p general="0001" id= "_00003">本發明係有關於超音波換能器之驅動器以及超音波換能器。尤其是，本發明係有關於用作為電線接合機中的接合裝置之一驅動器及超音波換能器。</p>
+</technical-field>
+<background-art><p general="0002" id= "_00004">在電線接合機上的超音波換能器用來同時施加壓力及超音波能量，以連接一半導體構件之電線至一基板。該超音波換能器具有用以轉換一超音波信號產生器之驅動信號成為超音波振動的一超音波驅動器。一角狀部放大來自驅動器及一接合工具的超音波，該接合工具為定位在角狀部的較小端上的楔形部或毛細管，其在施加一預定接合力量至電線並接合構件在一起時，耦接放大的超音波振動。壓電材料用作為在超音波驅動器中的主動(或驅動)材料。很難感應厚的壓電元件中的電成極，因此，數個壓電元件疊置在一起，以獲得所欲程度的電力。</p>
+<p general="0003" id= "_00005">第1及2圖顯示一習知超音波驅動器的疊合及分解圖。該驅動器包括數個環形壓電元件1，1’，1”，1&apos;&apos;&apos;，其平行地以電力相連，且在由一金屬螺紋軸2及一金屬螺帽3形成的一預先施加張力機構施加的一機械壓力下機械地串連。該環形電極4，4’，4”，4&apos;&apos;&apos;，4&apos;&apos;&apos;&apos;配置在壓電元件1，1’，1”，1&apos;&apos;&apos;、軸2及螺帽3之間，以與一超音波信號產生器(未顯示)備置電力相連及外部連接。</p>
+<p general="0004" id= "_00006">壓電超音波換能器的一個問題為其在上升的電力、機
+械以及/或溫度張力下操作，以增加機械力輸出時會承受加速的老化及失效。此種換能器在應用於高電力時無法具有可靠性。雖然數個壓電元件可結合或分組，以產生增加的電力操作能力之換能器，但如此會造成較大且較重的換能器失去功能，且亦很難組合且操作上十分昂貴。</p>
+<p general="0005" id= "_00007">在使用電壓材料之前有時會使用磁致伸縮過渡金屬，如鐵(Fe)，鉻(Co)及鎳(Ni)。雖然這些過渡金屬在使用時較不易損壞，但它們十分厚重。更重要的是，其低的變頻力及低的能量密度顯著地限制一既定壓電電力輸入的機械力輸出及材料量，因此而增加了製成的換能器之尺寸及重量。</p>
+</background-art>
+<disclosure><heading level="1">發明概要</heading>
+<p general="0006" id= "_00008">本發明的一目的是備置用於超音波換能器的一驅動器，以及用在線接合應用中的超音波換能器，其具有改良的能量操作力，較高的效率以及較佳可靠性，或至少克服或改善習知裝置的缺點。</p>
+<p general="0007" id= "_00009">依據本發明的第一特徵所備置一超音波換能器包括：一大的磁致伸縮元件，一扣件，其在機械壓力下支持該大的磁致伸縮元件，一第一磁場產生器，其用以備置一磁性偏動磁場，一第二磁場產生器，其用以備置一磁性驅動磁場，以及一磁性迴路，其用以在大的磁致伸縮元件中引導磁場。</p>
+<p general="0008" id= "_00010">最好，大的磁致伸縮元件係由一稀土族合金形成。</p>
+<p general="0009" id= "_00011">最好，大的磁致伸縮元件係由包括以一層被動聚合材料分開的兩個或數個稀土族合金的一複合物形成。</p>
+<p general="0010" id= "_00012">最好，大的磁致伸縮元件係由鋱芬諾-D(Terfenol-D)或其複合物形成。</p>
+<p general="0011" id= "_00013">最好，大的磁致伸縮元件為具有一中心孔的圓筒形。</p>
+<p general="0012" id= "_00014">最好，扣件包括一螺紋軸以及以非磁性金屬材料製成的螺帽。</p>
+<p general="0013" id= "_00015">最好，第一磁場產生器包括一永久磁鐵。</p>
+<p general="0014" id= "_00016">最好，第二磁場產生器包括一電線圈。</p>
+<p general="0015" id= "_00017">最好，磁性迴路包括一對具有高通透性，高阻抗性以及高飽和性的磁性回復通路環以及一磁性回復通路圓筒。</p>
+<p general="0016" id= "_00018">依據本發明的第二特徵，備置用於一接合裝置的一超音波換能器，其包括：一角狀部，在其一較小端上具有一接合工具，而在一相對端上具有一架設環管，以及耦接至該角狀部的一驅動器，其包括一大的磁致伸縮元件，用以在機械壓力下固持大的磁致伸縮元件之一扣件，用以產生一磁性偏動磁場的一第一磁場產生器，用以備置一磁性驅動磁場的一第二磁場產生器，以及用以在大的磁致伸縮元件中引導磁場的一磁性迴路。</p>
+<p general="0017" id= "_00019">最好，大的磁致伸縮元件係由一稀土族合金形成。</p>
+<p general="0018" id= "_00020">最好，大的磁致伸縮元件係由包括以一層被動聚合材料分開的兩個或數個稀土族合金的一複合物形成。</p>
+<p general="0019" id= "_00021">最好，大的磁致伸縮元件係由鋱芬諾-D或其複合物形成。</p>
+<p general="0020" id= "_00022">最好，大的磁致伸縮元件為具有一中心孔的圓筒形。</p>
+<p general="0021" id= "_00023">最好，扣件包括一螺紋軸以及以非磁性金屬材料製成的螺帽。</p>
+<p general="0022" id= "_00024">最好，第一磁場產生器包括一永久磁鐵。</p>
+<p general="0023" id= "_00025">最好，第二磁場產生器包括一電線圈。</p>
+<p general="0024" id= "_00026">最好，磁性迴路包括一對具有高通透性，高阻抗性以及高飽和性的磁性回復通路環以及一磁性回復通路圓筒。</p>
+<p general="0025" id= "_00027">本發明的其他特徵將在下文中配合實例詳加說明。</p>
+<p general="0026" id= "_00028">本發明的實施例將在下文中配合圖式詳加說明，其中：第1及2圖為一習知超音波驅動器的一疊合圖及一分解圖；第3圖為一例示超音波換能器；第4及5圖分別為依據本發明的一超音波換能器驅動器之一疊合圖及一分解圖；第6圖為第4圖之驅動器的一橫截面圖；第7圖為依據本發明的一超音波換能器驅動器的第二實施例之一分解圖；第8圖為依據本發明的一超音波換能器驅動器的第三實施例之一分解圖；第9a至9f圖為用於驅動器的一磁致伸縮元件之不同構形；第10圖為用於使用如第9b圖中所示的鋱芬諾-D/環氧壓電1-3複合物而製成的用於本發明之一實施例的電阻抗與頻率之間的關係；而
+第11圖為用於使用如第9b圖中所示的鋱芬諾-D/環氧壓電1-3複合物的換能器之位移調幅與頻率之間的關係。</p>
+</disclosure>
+<mode-for-invention><p general="0027" id= "_00029">在下文中，〝大的磁致伸縮元件材料/元素〞係為與早期的過渡金屬如鐵(Fe)、鉻(Co)及鎳(Ni)比較具有相當大的磁致伸縮效果的磁鐵材料。這些大的磁致伸縮材料是較佳的，但使用如鋱芬諾-D及其複合物等含有稀土族合金的材料非為絕對必要的。</p>
+<p general="0028" id= "_00030">參看第3圖，一超音波換能器由一超音波驅動器5、一超音波角狀部6、一接合工具7及一桶狀部8構成。超音波驅動器5為一預先加上張力之夾在中間的換能器，其作為一個半波浪狀、縱向、質量-彈簧-質量、線性振動器，以轉換由一超音波信號產生器(未顯示)產生的電磁能成為在超音波頻率下的縱向振動。超音波角狀部6用以耦接及放大來自超音波驅動器5的超音波振動。通常為一楔形或毛細管的接合工具7夾在鑽於超音波角狀部6的較小端10上的孔9中，以藉由定位在接合工具之尖端11上的最大振幅耦接且進一步放大超音波振動。由一突緣12及一環管13構成的桶狀部8用來架設整個換能器至一電線接合機上，以與超音波振動共同施加預定的接合力量至擬經由接合工具之尖端接合的電線及構件。桶狀部8的突緣部12以機械力毗接對應於縱向振動的一結節點(及零振動振幅)的一特定位置上的超音波角狀部6，以避免能量的耗損而導致的接合功能之降等。環管部13以機械力自突緣部12延伸，以進一步自電線接合機上鬆
+開超音波角狀部6。換能器經由環管13架設至電線接合機。</p>
+<p general="0029" id= "_00031">現在參看第4至6圖，超音波驅動器5作為一半個波浪狀、縱向、質量-彈簧-質量、線性振動器，輸送超音波振動至毗接超音波角狀部6，它備有一大的磁致伸縮元件14，其在壓力下藉由一螺紋軸15及一螺帽16形成的一預先加張力的機構以機械力夾住，而螺紋軸15及螺帽16以不銹鋼304、鈦合金、鋁合金等具有高強度，非磁性的金屬材料製成。一對環形永久磁鐵17，17’定位在磁致伸縮元件14的兩端，且提供磁致伸縮元件14磁性動磁場，以產生一最初的靜力機械張力。為確保磁性流動線的均勻分佈，這些磁鐵的直徑稍大於元件之磁力(基本上是1.2倍)，且磁鐵直徑與厚度的比大約為12：1。</p>
+<p general="0030" id= "_00032">磁鐵17，17’最好，但非必要的，為單片燒結或以聚合物黏結釹鐵硼(NdFeB)及釤鈷(SmCo)磁鐵。燒結磁鐵具有較高的磁力，以及較佳的熱穩定性，而以聚合物黏結磁鐵具有較高的電阻(即較不易有渦電流的耗損)，以及較低的密度。若採用燒結磁鐵，最好在磁鐵上備置一長形孔，以減少渦電流集中在其主要表面。</p>
+<p general="0031" id= "_00033">一磁性驅動磁場為具有任何大小以及一層或數層的任何圈數之漆色金屬線(即漆色銅線)的驅動螺線管18(例如一電線圈)供應，而該金屬線圈圍繞著磁致伸縮元件14，且其間備有一有限的空氣間隙19。磁性驅動磁場在最初的靜力張力的中心備置一振動張力。一協助引導磁流至磁致伸縮元件中的一磁性迴路以一對位在磁致伸縮元件-永久磁鐵總成及一外磁性回復通路圓筒21的各端上之磁性回復通路
+環20，20’形成。整個迴路以高通透性、高阻抗性及高飽和性材料製成，如粉末金屬〝T2〞、高導磁合金、鐵、鎳、鉻等。</p>
+<p general="0032" id= "_00034">大的磁致伸縮元件可以如鋱芬諾-D之材料製成。鋱芬諾-D為稀土族元素鋱(Tb)及鏑(Dy)及過渡金屬鐵(Fe)的合金。它在室溫及低磁場(&lt;150 kA/m)下以一有效率的回應(大約1 μs)呈現大的線性張力(大約1200 ppm)以及張力能量密度(大約為20 kJ/m<sup>3</sup>
+)這些值大約是壓電材料的10倍，甚至是早期過渡金屬的一百倍。此外，由於壓電材料須要外部的高電〝極〞場，以感應電壓，很難生產厚的壓電元件，因此，須疊置數個壓電元件，以獲得所欲程度的電力。相反地，大的磁致伸縮材料不須〝極化〞，使得在應用中可使用較簡單的製造方法，可改變尺寸的一單一元件，長時間下呈現固定的功能。</p>
+<p general="0033" id= "_00035">參看第7圖，在驅動器之第二實施例中，螺紋軸15及一單片磁性回復通路環20製造成一單一構件，而螺帽16與另一單片磁性回復通路環20’共同形成另一單一構件。</p>
+<p general="0034" id= "_00036">參看第8圖，在驅動器之第三實施例中，螺紋軸15、一單片磁性回復通路環20及一單片永久磁鐵環17製造成一單一構件，而螺帽16與另一單片磁性回復通路環20’及另一單片永久磁鐵環17’共同形成另一單一構件。</p>
+<p general="0035" id= "_00037">一層厚的膜或薄的膜永久磁性材料可使用厚膜技術及薄膜技術(即鍍濺、脈衝雷射沉積(PLD)等)技術分別塗覆在螺紋軸15及螺帽16的接觸表面上。此設計的優點在於減少
+構件的數量，以及超音波驅動器5中的構件界面之數量，以增加總成的彈性及超音波驅動器5的品質及可靠性。一般而言，大的磁致伸縮超音波驅動器/換能器與壓電超音波驅動器/換能器比較須要較少的構件。因此，依據本發明的驅動器/換能器可具有較小的尺寸及重量，且亦較容易組合，且操作上較便宜。</p>
+<p general="0036" id= "_00038">第9a至9f圖顯示用於超音波驅動器5的大的磁致伸縮元件14之不同的組合。須知，即使圖式中顯示備有一中心孔的圓筒形，但實際上任何形狀均可。第9a圖顯示一單片大的磁致伸縮元件。在使用時，大體上為合金的單片材料具有兩項缺點。第一個缺點是由於渦電流的耗損而限制操作頻率為數個千赫。第二個缺點是用於材料的易碎性難以製造及以機器操作。藉由製造單片材料成為包括兩個或數個以至少一層被動聚合材料(即環氧)分隔的一複合物，材料的頻寬可延伸至超音波範圍內(即&gt;=20 kHz)，且其易碎性由於增加的電阻及機械上的耐用性而減少。</p>
+<p general="0037" id= "_00039">第9b至9f圖為不同組合的複合大的磁致伸縮元件。這些複合物包括但不限於：- 壓電1-3，其具有縱向上在一聚合物基質中對齊的大的磁致伸縮顆粒，- 0-3，其具有在一聚合物基質中任意地分散的大的磁致伸縮顆粒，- 1-3，其具有在一垂直方向橫向地延伸之聚合層，- 徑向2-2，其具有以任何方向徑向地延伸之聚合層，
+以及- 平行2-2，其具有以單一方向橫向地延伸之聚合層。</p>
+<p general="0038" id= "_00040">第10圖顯示使用以鋱芬諾-D/環氧複合物製成的第9b圖中之壓電1-3大的磁致伸縮元件的一超音波驅動器的電阻抗及頻率的關係。換能器在大約64 kHz下振動，而電阻抗隨著頻率的增加而線性地增加，即，換能器具有感應器的功能。此意謂著渦頻率在100 kHz內的此種換能器之渦電流耗損很小。</p>
+<p general="0039" id= "_00041">第11圖顯示同一換能器的位移調幅及頻率的關係。如第10圖所示，位移對於無渦電流耗損的高達或超過換能器之基本共振具有平的回應。在共振下，位移調幅大約為低頻率資料(即1 kHz)的40倍。</p>
+<p general="0040" id= "_00042">若驅動器採用大的磁致伸縮材料，尤其是如鋱芬諾-D及其複合物等含有稀土族合金的材料，則新穎的超音波換能器可在電線接合應用中獲得改良的，具較高頻率及較佳可靠性的電操作力。</p>
+<p general="0041" id= "_00043">在以上說明中所提及的具有對應物的元件即使未個別地敘述，該對應物亦包括在本發明中。</p>
+<p general="0042" id= "_00044">本發明的實施例已揭露如上，但其具有一些改變及改良，且該改良及改變可發生在本發明的精神及申請專利範圍所界定的範圍內。</p>
+</mode-for-invention>
+<description-of-drawings><description-of-element><p general="0043" id= "_00045">1‧‧‧壓電元件</p>
+<p general="0044" id= "_00046">1’‧‧‧壓電元件</p>
+<p general="0045" id= "_00047">1”‧‧‧壓電元件</p>
+<p general="0046" id= "_00048">1&apos;&apos;&apos;‧‧‧壓電元件</p>
+<p general="0047" id= "_00049">2‧‧‧螺紋軸</p>
+<p general="0048" id= "_00050">3‧‧‧螺帽</p>
+<p general="0049" id= "_00051">4‧‧‧電極</p>
+<p general="0050" id= "_00052">4’‧‧‧電極</p>
+<p general="0051" id= "_00053">4”‧‧‧電極</p>
+<p general="0052" id= "_00054">4&apos;&apos;&apos;‧‧‧電極</p>
+<p general="0053" id= "_00055">4&apos;&apos;&apos;&apos;‧‧‧電極</p>
+<p general="0054" id= "_00056">5‧‧‧超音波驅動器</p>
+<p general="0055" id= "_00057">6‧‧‧超音波角狀部</p>
+<p general="0056" id= "_00058">7‧‧‧接合工具</p>
+<p general="0057" id= "_00059">8‧‧‧桶狀部</p>
+<p general="0058" id= "_00060">9‧‧‧孔</p>
+<p general="0059" id= "_00061">10‧‧‧較小端</p>
+<p general="0060" id= "_00062">11‧‧‧尖端</p>
+<p general="0061" id= "_00063">12‧‧‧突緣</p>
+<p general="0062" id= "_00064">13‧‧‧環管</p>
+<p general="0063" id= "_00065">14‧‧‧磁致伸縮元件</p>
+<p general="0064" id= "_00066">15‧‧‧螺紋軸</p>
+<p general="0065" id= "_00067">16‧‧‧螺帽</p>
+<p general="0066" id= "_00068">17‧‧‧磁鐵</p>
+<p general="0067" id= "_00069">17’‧‧‧磁鐵</p>
+<p general="0068" id= "_00070">18‧‧‧驅動螺線管</p>
+<p general="0069" id= "_00071">19‧‧‧空氣間隙</p>
+<p general="0070" id= "_00072">20‧‧‧單片磁性回復通路環</p>
+<p general="0071" id= "_00073">20’‧‧‧單片磁性回復通路環</p>
+<p general="0072" id= "_00074">21‧‧‧外磁性回復通路圓筒</p>
+</description-of-element>
+<p general="0073" id= "_00075">第1及2圖為一習知超音波驅動器的一疊合圖及一分解圖；
+第3圖為一例示超音波換能器；第4及5圖分別為依據本發明的一超音波換能器驅動器之一疊合圖及一分解圖；第6圖為第4圖之驅動器的一橫截面圖；第7圖為依據本發明的一超音波換能器驅動器的第二實施例之一分解圖；第8圖為依據本發明的一超音波換能器驅動器的第三實施例之一分解圖；第9a至9f圖為用於驅動器的一磁致伸縮元件之不同構形；第10圖為用於使用如第9b圖中所示的鋱芬諾-D/環氧壓電1-3複合物而製成的用於本發明之一實施例的電阻抗與頻率之間的關係；而第11圖為用於使用如第9b圖中所示的鋱芬諾-D/環氧壓電1-3複合物的換能器之位移調幅與頻率之間的關係。</p>
+</description-of-drawings>
+</description>
+<claims><claim dependency="dependent-claim"><claim-text>一種用於電線接合機之接合裝置，其包含：耦接於一超音波換能器次總成之一接合工具，該換能器次總成包含：一大的磁致伸縮元件；一扣件，其用以在機械壓力下固持該大的磁致伸縮元件；一第一磁場產生器，其用以備置一磁性偏動磁場；一第二磁場產生器，其用以備置一磁性驅動磁場；以及一磁性迴路，其用以引導位在該大的磁致伸縮元件中之該等磁場，其中該大的磁致伸縮元件係由一複合物形成，該複合物包含二或更多彼此僅以一層被動聚合材料分隔的含有稀土族金屬的大的磁致伸縮合金部件。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該大的磁致伸縮元件係由一含有稀土族合金的材料形成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該大的磁致伸縮元件係由鋱芬諾-D(Terfenol-D)及其複合物形成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該大的磁致伸縮元件係為具有一中心孔的圓筒形。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該扣件係以非磁性金屬材料所製成的一螺紋軸及一螺帽。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該第一磁場產生器係一永久磁鐵。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該第二磁場產生器係一電線圈。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該磁性迴路包含一對具有高通透性、高阻抗性及高飽和性的磁性回復通路環及一磁性回復通路圓筒。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種用於電線接合機之接合裝置，其包含：一角狀部，在其一較小端上具有一接合工具，而在一相對端上具有一架設環管；以及一超音波換能器次總成，該超音波換能器次總成係耦接至該角狀部且包含一大的磁致伸縮元件，一扣件，其用以在機械壓力下固持該大的磁致伸縮元件，一第一磁場產生器，其用以備置一磁性偏動磁場，一第二磁場產生器，其用以備置一磁性驅動磁場，以及一磁性迴路，其用以引導位在該大的磁致伸縮元件中之該等磁場；其中該大的磁致伸縮元件係由一複合物形成，該複合物包含二或更多彼此僅以一層被動聚合材料分隔的含有稀土族金屬的大的磁致伸縮合金部件。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置其中該大的磁致伸縮元件係由一含有稀土族合金的材料形成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該大的磁致伸縮元件係由鋱芬諾-D(Terfenol-D)及其複合物形成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該大的磁致伸縮元件係為具有一中心孔的圓筒形。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該扣件係以非磁性金屬材料所製成的一螺紋軸及一螺帽。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該第一磁場產生器係一永久磁鐵。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該第二磁場產生器係一電線圈。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第9項的裝置，其中該磁性迴路包含一對具有高通透性、高阻抗性及高飽和性的磁性回復通路環及一磁性回復通路圓筒。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>如申請專利範圍第1項的裝置，其中該大的磁致伸縮元件包含一縱向連接該元件之一第一端至該元件之一相對第二端的孔洞，且該扣件包含一配置於該大的磁致伸縮元件孔洞內之縱向延伸中心部份，一自該元件之該第一端延伸之第一部份，一相鄰於該元件第一端之附接於該第一部份之第一推力面，一自該元件之該第二端延伸之第二端，及一相鄰於該元件第二端之附接於該第二部份之第二推力面，其中該扣件係以非磁性金屬材料製成。
+</claim-text>
+</claim>
+<claim dependency="dependent-claim"><claim-text>一種用於電線接合機之接合裝置，其包含：耦接於一超音波換能器次總成之一接合工具，該超音波換能器次總成包含：一中心支持構件；一環繞該支持構件之大的磁致伸縮元件，該大的磁致伸縮元件具有一第一端及一第二端且係由二或更多
+含有稀土族金屬的大的磁致伸縮合金形成；一對環繞該支持構件之永久磁鐵，該對永久磁鐵中之一者係位於該大的磁致伸縮元件的該第一端且該對永久磁鐵中之另一者係位於該大的磁置伸縮元件之該第二端；用以於機械壓力下將該大的磁致伸縮元件及該等永久磁鐵固持於該支持構件上之扣件；環繞該大的磁致伸縮元件以備置一磁性驅動磁場之一線圈；以及環繞該等大的磁致伸縮元件、永久磁鐵及線圈之一磁性迴路。
+</claim-text>
+</claim>
+</claims>
+<figure-drawings figure-labels="第3圖" lang="tw"><p general="n" id= "_00076">5‧‧‧超音波驅動器</p>
+<p general="n" id= "_00077">6‧‧‧超音波角狀部</p>
+<p general="n" id= "_00078">7‧‧‧接合工具</p>
+<p general="n" id= "_00079">8‧‧‧桶狀部</p>
+<p general="n" id= "_00080">9‧‧‧孔</p>
+<p general="n" id= "_00081">10‧‧‧較小端</p>
+<p general="n" id= "_00082">11‧‧‧尖端</p>
+<p general="n" id= "_00083">12‧‧‧突緣</p>
+<p general="n" id= "_00084">13‧‧‧環管</p>
+</figure-drawings>
+<drawings lang=""><figure figure-labels="第1圖 "><img file="img-2/draw/094100146-a0202-03-0001-pic0000.gif" he="0482" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第2圖 "><img file="img-2/draw/094100146-a0202-03-0001-pic0001.gif" he="0775" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第3圖 "><img file="img-2/draw/094100146-a0202-03-0002-pic0000.gif" he="0842" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第4圖 "><img file="img-2/draw/094100146-a0202-03-0003-pic0000.gif" he="0759" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第5圖 "><img file="img-2/draw/094100146-a0202-03-0003-pic0001.gif" he="0749" id="i0005" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第6圖 "><img file="img-2/draw/094100146-a0202-03-0004-pic0000.gif" he="1054" id="i0006" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第7圖 "><img file="img-2/draw/094100146-a0202-03-0005-pic0000.gif" he="0828" id="i0007" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第8圖 "><img file="img-2/draw/094100146-a0202-03-0006-pic0000.gif" he="0794" id="i0008" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第9a圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-1.jpg" he="707" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="774"/></figure>
+<figure figure-labels="第9b圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-2.jpg" he="678" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="526"/></figure>
+<figure figure-labels="第9c圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-3.jpg" he="668" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="607"/></figure>
+<figure figure-labels="第9d圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-4.jpg" he="707" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="603"/></figure>
+<figure figure-labels="第9e圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-5.jpg" he="720" id="i0005" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="568"/></figure>
+<figure figure-labels="第9f圖"><img alt="" file="img-2/draw/094100146-a0305-03-0007-6.jpg" he="710" id="i0006" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="642"/></figure>
+<figure figure-labels="第10圖 "><img file="img-2/draw/094100146-a0202-03-0008-pic0000.gif" he="1004" id="i0015" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="第11圖 "><img file="img-2/draw/094100146-a0202-03-0009-pic0000.gif" he="0928" id="i0016" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0899"/></figure>
+</drawings>
+</invention-specification>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<invention-specification lang="tw" receive-num="0953031858-0" receive-date=" " dtd-version="1.0" filing-date="0900109" application-num="090100440" ipc-mark="F04C 27/00,F01C 1/04" status="p" produced-by="applicant">
+<abstract lang="tw">
+<abstract-dtext>
+<p id="_00001" general="n">一垂直壓縮機藉由平置該垂直壓縮機在其邊緣且放置其在一較大壓縮機的該標準殼內而轉換成一水平壓縮機。當該較大壓縮機的端蓋和隔板被增加時，該較小壓縮機的端蓋和隔板被移除。一潤滑油泵從被限定在該兩個殼之間的油泵抽出潤滑油至該壓縮機需要潤滑油的所有區域。
+</p>
+</abstract-dtext>
+</abstract>
+<abstract lang="en">
+<abstract-dtext>
+<p id="_00002" general="n">A vertical compressor is converted to a horizonta1 compressor by laying the vertical compressor on its side and locating it within the standard shell of a larger vertical compressor. The end caps and partition of the smaller compressor are removed while the end caps and the partition of the larger compressor are added. A lubricant pump pumps lubricant from the sump defined between the two shells to all areas of the compressor requiring lubrication.
+</p>
+</abstract-dtext>
+</abstract>
+<description>
+<invention-title lang="tw">水平捲動機械
+</invention-title>
+<invention-title lang="en">HORIZONTAL SCROLL MACHINE
+</invention-title>
+<heading level="1"><b>發明範圍</b>
+</heading>
+<p id="_00003" general="n">本發明係關於捲動壓縮機。更特別的是，本發明係關於被水平地放置且利用一現有的壓縮機殼將一第二壓縮機殼包起來的捲動壓縮機，該捲動壓縮機位於該第二壓縮機殼內。
+</p>
+<heading level="1"><b>發明背景及簡述</b>
+</heading>
+<p id="_00004" general="n">捲動型機器在使用上變得愈來愈受歡迎，如壓縮機在冷卻和空氣調節兩者用途上，主要地係由於它們的性能能非常有效率的操作。一般地，這些機器包括一對連網的螺旋形線匝，其一形成相對於另一個的軌道以便於限定一個或更多個移動室，當該移動室從一外吸氣口朝一中央流出口移動時會逐漸地減少其大小。設置一電動馬達，其經由一被固定至馬達轉子之適合的驅動軸來操作以驅動該軌道渦型構件。在一封閉的壓縮機內，該封閉殼的底部通常包括一油箱以作為潤滑和冷卻的目的。
+</p>
+<p id="_00005" general="n">一般地，該馬達包括一被固定至該壓縮機殼的定子。該馬達轉子在該定子內旋轉以給予轉動至一曲軸，該曲軸通常壓入配合在該馬達轉子內。該曲軸藉由一對軸承被旋轉地支撐，而該等軸承係藉由一主軸承室和一次軸承室。該曲軸包括一偏心曲柄銷，其延伸至一被限定於一該軌道渦型輪軸內之鑽孔。一驅動絕緣套被放置在該曲柄銷之輪軸和該鑽孔的內表面之間，其靠著一被壓入配合在該輪軸之鑽孔內的軸承轉動。
+</p>
+<p id="_00006" general="n">關於該捲動壓縮機的設計放置該曲軸的中心軸在一垂
+直或水平的位置。在該垂直和水平捲動壓縮機設計之間的一不同處為該油池和該遞送系統，該遞送系統遞送該潤滑油至該壓縮機需要潤滑油的不同部分。在一傳統垂直放置的壓縮機中，潤滑油被儲存在該殼的較低部分，而其有曲軸的較低端點被浸在該油箱內。該曲軸有一相對較大直徑的中央位置鑽孔，其與一放射狀向外傾斜延伸至該曲軸頂端的較小直徑鑽孔相通。該較大直徑鑽孔運轉如一泵以抽出該曲軸的潤滑流體至該較小直徑的鑽孔且最後至所有該壓縮機需要潤滑油的不同地方。
+</p>
+<p id="_00007" general="n">當該壓縮機被水平地放置，雖然其需要注入潤滑油超過該殼的一半，但其實際上並沒有使該曲軸的端點浸入在該潤滑油內。本發明提供一具有一水平壓縮機的技藝，其包括一已經被水平地放置的傳統垂直壓縮機。該水平放置的垂直壓縮機被放置在一較大的垂直壓縮機內以對該水平壓縮機提供必須的潤滑油池。
+</p>
+<p id="_00008" general="n">本發明其他的優點和目的從接下來詳細的描述、附加的申請專利範圍和圖式將對熟知此技藝者變得顯而易見。
+</p>
+<description-of-drawings>
+<description-of-element>
+<p id="_00009" general="y">10．．．壓縮機
+</p>
+<p id="_00010" general="y">12．．．內殼
+</p>
+<p id="_00011" general="y">14．．．外殼
+</p>
+<p id="_00012" general="y">16、18．．．端蓋
+</p>
+<p id="_00013" general="y">20．．．腳
+</p>
+<p id="_00014" general="y">22．．．冷媒流出裝配
+</p>
+<p id="_00015" general="y">24．．．橫向延伸隔板
+</p>
+<p id="_00016" general="y">26．．．間隔件
+</p>
+<p id="_00017" general="y">28．．．橫向延伸隔板
+</p>
+<p id="_00018" general="y">30．．．接線盒
+</p>
+<p id="_00019" general="y">32．．．液體注入裝配
+</p>
+<p id="_00020" general="y">34．．．觀察孔
+</p>
+<p id="_00021" general="y">36．．．主軸承室
+</p>
+<p id="_00022" general="y">38．．．次軸承室
+</p>
+<p id="_00023" general="y">40．．．馬達定子
+</p>
+<p id="_00024" general="y">42．．．曲軸
+</p>
+<p id="_00025" general="y">44．．．偏心曲柄銷
+</p>
+<p id="_00026" general="y">46、48．．．軸
+</p>
+<p id="_00027" general="y">50、52．．．鑽孔
+</p>
+<p id="_00028" general="y">56．．．吸氣裝配
+</p>
+<p id="_00029" general="y">60．．．潤滑油抽取系統
+</p>
+<p id="_00030" general="y">62．．．入口室總成
+</p>
+<p id="_00031" general="y">64．．．入口管
+</p>
+<p id="_00032" general="y">66．．．潤滑油泵
+</p>
+<p id="_00033" general="y">68．．．油池
+</p>
+<p id="_00034" general="y">70．．．繞線
+</p>
+<p id="_00035" general="y">72．．．轉子
+</p>
+<p id="_00036" general="y">74．．．第一配重
+</p>
+<p id="_00037" general="y">76．．．第二配重
+</p>
+<p id="_00038" general="y">78．．．平面推力軸承表面
+</p>
+<p id="_00039" general="y">80．．．軌道渦型構件
+</p>
+<p id="_00040" general="y">82．．．普通螺旋葉
+</p>
+<p id="_00041" general="y">84．．．端板
+</p>
+<p id="_00042" general="y">86．．．圓筒型輪軸
+</p>
+<p id="_00043" general="y">88．．．軸頸軸承
+</p>
+<p id="_00044" general="y">90．．．絕緣套
+</p>
+<p id="_00045" general="y">92．．．內鑽孔
+</p>
+<p id="_00046" general="y">94．．．歐丹聯結器
+</p>
+<p id="_00047" general="y">96．．．非軌道渦型構件80
+</p>
+<p id="_00048" general="y">98．．．線匝
+</p>
+<p id="_00049" general="y">100．．．端板
+</p>
+<p id="_00050" general="y">102．．．排洩通路
+</p>
+<p id="_00051" general="y">104．．．開口凹部
+</p>
+<p id="_00052" general="y">106．．．排消音器室
+</p>
+<p id="_00053" general="y">108．．．環槽凹部
+</p>
+<p id="_00054" general="y">110．．．密封總成
+</p>
+</description-of-element>
+<p id="_00055" general="n">在例示不久將打算用來實行本發明之最佳模組的圖式中。
+</p>
+<p id="_00056" general="n">第1圖係根據本發明之一水平捲動型冷卻壓縮機的側視圖；
+</p>
+<p id="_00057" general="n">第2圖係如第1圖所示之水平捲動型冷卻壓縮機的端視圖；
+</p>
+<p id="_00058" general="n">第3圖為穿過如第1圖所示之該捲動型冷卻壓縮機中央的垂直斷面圖；
+</p>
+<p id="_00059" general="n">第4圖為如第1圖所示之該捲動型冷卻壓縮機，其蓋子和隔板已被拆卸的端視圖；以及
+</p>
+<p id="_00060" general="n">第5圖為相對於第1圖所示該捲動型冷卻壓縮機之端點的端視圖，該捲動型冷卻壓縮機之端蓋和油泵已被拆卸。
+</p>
+<heading level="1"><b>較佳具體實施例之詳細描述</b>
+</heading>
+<p id="_00061" general="n">關於圖式中貫穿過數個圖式之同樣相關的數字乃標示相同或相對的部分，根據本發明顯示在第1-5圖中的一水平型冷卻捲動壓縮機一般係藉由相關的數字10標示。壓縮機10包括一內部大體為圓筒形的殼12和一外部大體為圓筒形之封閉殼14。內部大體為圓筒形的殼12最好以一一般現有的垂直壓縮機為一標準的壓縮機。同樣地，外部大體為圓筒形封閉殼14最好是以一般現有的垂直壓縮機為一標準而大於殼12的壓縮機。藉由利用兩個現有的壓縮機殼，一大一小，關於製造水平壓縮機的成本可以顯著地減少。
+</p>
+<p id="_00062" general="n">一般圓筒形封閉外殼14在其一端焊接一端蓋16且在另一端焊接一端蓋18。數個腳20被固定至殼14以方便壓縮機10放置在一冷卻系統內。蓋子16設有一冷媒流出裝配22，在其內可能有一普通流出閥。其它主要附加至至殼14的元件包括一橫向延伸隔板24，其焊接其周圍在端蓋16焊接至殼14的相同地方；一吸氣裝配56；一排油裝配28；一接線盒30；一液體注入裝配32和一觀察孔34。內殼12被配
+置在外殼14內且其藉由數個間隔件26被中央地放置在外殼14內。
+</p>
+<p id="_00063" general="n">附加至殼12的主要元件包括一藉由數個放射狀向外延伸之腳而被適宜地固定至殼12的主軸承室36和一也具有數個放射狀向外延伸之腳，其每一也被適宜地固定至殼12的次軸承室38。一馬達定子40在橫斷面上一般是方形或六角形，但具有成圓形的角被壓入配合至殼12。為定子40上之圓角所共有的板片提供通路在轉子40和殼12之間，其便利在殼內之潤滑油和冷卻氣體的流動。
+</p>
+<p id="_00064" general="n">具有一偏心曲柄銷44在一端的一驅動軸或曲軸42為可旋轉地軸頸於在主軸承室36上的軸46和在次軸承室38上的軸48。曲軸42在其相對端有一相對較大直徑的同心鑽孔50，其與一延伸穿過曲軸42呈放射狀向外傾斜較小直徑的鑽孔52相連。一藉由曲軸42給予動力之潤滑油抽取系統60被固定至次軸承室38的外邊。抽取系統60包括一入口室總成62、一入口管64和一藉由曲軸42驅動的潤滑油泵66。潤滑油泵66被固定至入口室總成62，入口室總成62依次被固定至次軸承室38。入口管64從入口室總成62延伸至在殼12和14之間的一動力位置。在殼12和14之間的動力位置限定一潤滑油聚集於內的油池68。泵66從油池68抽出潤滑油穿過管64和室總成62並抽取該潤滑油至鑽孔50和52且最後至所有該壓縮機10需要潤滑油的不同部分。
+</p>
+<p id="_00065" general="n">曲軸42藉由一電動馬達來可旋轉地驅動，該馬達包括定子40，穿過那裡之繞線70和一壓入配合在曲軸42上
+的轉子72且其分別具有第一和第二配重74,76。
+</p>
+<p id="_00066" general="n">主軸承室36的外表面設有一平面推力軸承表面78，其靠著一軌道渦型構件80配置，該構件具有從一端板84延伸向外的該普通螺旋葉或線匝82。從軌道渦型構件80的端板84向外凸出的為一具有一軸頸軸承88在其內的圓筒型輪軸86且其可旋轉地配置一有一內鑽孔92的驅動絕緣套90，而該曲柄銷44可驅動地配置該內鑽孔。曲柄銷44有一板片在一表面以提供一放射地順應銜接，該表面驅動地銜接一形成在鑽孔92一部分之板片表面，例如顯示在受讓人之美國專利第4877382號，其所揭露的內容將在此併入以作為參考。一歐丹聯結器94也被提供放置在軌道渦型構件80和軸承室36之間且楔固至軌道渦型構件80和一非軌道渦型構件96以避免軌道渦型構件80的旋轉移動。歐丹聯結器94的較佳形式揭露在受讓人之共同進行的美國專利案第5320506號，其所揭露的內容將在此併入以作為參考。
+</p>
+<p id="_00067" general="n">非軌道渦型構件96也提供一從一端板100向外延伸的線匝98，該端板被放置在與非軌道渦型構件80之線匝銜接的篩網。非軌道渦型構件96有一被中央地放置的排洩通路102，其連接一向上地開口凹部104，該開口依序地在與一由端蓋16和隔板24限定之排消音器室106相連的流體上。
+</p>
+<p id="_00068" general="n">一環槽凹部108也形成在被配置於一密封總成110內之非軌道渦型構件96上。凹部104、108和密封總成110相配合以限定軸壓偏室，其容納藉由線匝82、98壓縮之受
+壓流體，以便於施加一軸偏壓力在非軌道渦型構件96上而由此催促個自地線匝82、98端點做個自地和端板100及84之相對端板表面銜接的密封。密封總成的較佳型式描述在較詳細的美國專利第5156539號，其所揭露的內容將在此併入以作為參考。非軌道渦型構件96被設計成在適合的方式中安裝至軸承室36，該方式揭露於前述美國專利第4877382號或美國專利第5102316號中，其所揭露的內容將在此併入以作為參考。
+</p>
+<p id="_00069" general="n">因此，本發明的水平壓縮機10提供一具有轉換垂直方向壓縮機為一水平壓縮機之有效成本降低方法的技藝。利用現有垂直壓縮機之兩個殼能使低成本轉換至該水平系統。具有其壓縮機的該現有較小殼被安裝在位於一較大壓縮機內之殼內。該兩個殼形一潤滑油池，潤滑油藉由一抽取系統從一潤滑油池抽出，該抽取系統藉由該旋轉曲軸驅動。
+</p>
+<p id="_00070" general="n">雖然以上詳細的描述揭露本發明的較佳具體實施例，但可了解的是本發明容許沒有從附加之申請專利範圍的範圍和主要目的中偏離的變換、修正及替換。
+</p>
+</description-of-drawings>
+</description>
+<claims>
+<claim num="1." dependency="dependent-claim">
+<claim-text>1.一種水平捲動機械，其包含：一第一殼；一配置在該第一殼內之第一捲動構件，該第一捲動構件有一底板和一從該底板延伸的第一螺旋線匝；一配置在該第一殼內之第二捲動構件，該第二捲動構件有一第二底板和一從該第二底板延伸的第二螺旋線匝，該第二螺旋線匝和第一螺旋線匝連網；一使得該捲動構件相對於彼此運轉的驅動構件，藉此，該螺旋線匝在一吸氣壓力帶和一流出壓力帶之間產生逐漸改變大小的凹處；一界定出一內室的第二殼，該第一殼被完全地放置在該第二殼內，該第二殼界定出一潤滑油池；以及一被固定至該第二殼的隔板，該隔板分開該內室成為該吸氣壓力帶和該流出壓力帶。
+</claim-text>
+</claim>
+<claim num="2." dependency="dependent-claim">
+<claim-text>2.如申請專利範圍第1項之捲動機械，另包括一藉由該驅動室驅動的潤滑油泵，該潤滑油泵可運作地從該油池抽出潤滑油。
+</claim-text>
+</claim>
+<claim num="3." dependency="dependent-claim">
+<claim-text>3.如申請專利範圍第1項之捲動機械，另包括至少一被放置在該第一和第二殼之間的間隔件。
+</claim-text>
+</claim>
+<claim num="4." dependency="dependent-claim">
+<claim-text>4.如申請專利範圍第1項之捲動機械，其中該第一和第二殼為圓筒形的，該第一和第二殼被配置為其軸的。
+</claim-text>
+</claim>
+<claim num="5." dependency="dependent-claim">
+<claim-text>5.如申請專利範圍第1項之捲動機械，其中該第一和第
+二殼之每一限定一水平軸，該等軸為平行的。
+</claim-text>
+</claim>
+<claim num="6." dependency="dependent-claim">
+<claim-text>6.如申請專利範圍第5項之捲動機械，其中該等軸是共線的。
+</claim-text>
+</claim>
+<claim num="7." dependency="dependent-claim">
+<claim-text>7.如申請專利範圍第1項之捲動機械，另包括一被固定至該第一殼的主軸承室，該主軸承室可旋轉地支撐該驅動構件。
+</claim-text>
+</claim>
+<claim num="8." dependency="dependent-claim">
+<claim-text>8.如申請專利範圍第7項之捲動機械，另包括一被固定至該第一殼的次軸承室，該次軸承室可旋轉地支撐該驅動構件。
+</claim-text>
+</claim>
+<claim num="9." dependency="dependent-claim">
+<claim-text>9.如申請專利範圍第8項之捲動機械，另包括一被固定至該次軸承室的潤滑油泵，該潤滑油泵可運作地從該油池抽出潤滑油。
+</claim-text>
+</claim>
+<claim num="10." dependency="dependent-claim">
+<claim-text>10.如申請專利範圍第9項之捲動機械，其中該潤滑油泵藉由該驅動構件驅動。
+</claim-text>
+</claim>
+<claim num="11." dependency="dependent-claim">
+<claim-text>11.如申請專利範圍第1項之捲動機械，另包括一吸氣口延伸穿過該第二殼。
+</claim-text>
+</claim>
+<claim num="12." dependency="dependent-claim">
+<claim-text>12.如申請專利範圍第11項之捲動機械，另包括一流出口延伸穿過該第二殼，該隔板被放置在該流出口和該吸氣口之間。
+</claim-text>
+</claim>
+<claim num="13." dependency="dependent-claim">
+<claim-text>13.如申請專利範圍第1項之捲動機械，另包括一流出口延伸穿過該第二殼。
+</claim-text>
+</claim>
+<claim num="14." dependency="dependent-claim">
+<claim-text>14.如申請專利範圍第1項之捲動機械，另包括一流動密封配置在該隔板和該捲動構件之一之間。
+</claim-text>
+</claim>
+<claim num="15." dependency="dependent-claim">
+<claim-text>15.一種捲動機械，其包含：
+一界定一室的第一殼；一分開該室成為一吸氣壓力帶和一流出壓力帶的隔板；一配置在該吸氣壓帶內的第二殼；一配置在該第二殼內的第一捲動構件，該第一捲動構件有一底板和一從該第一底板延伸的第一螺旋線匝；一配置在該第二殼內的第二捲動構件，該第二捲動構件有一第二底板和一從該第二底板延伸的第二螺旋線匝，該第二螺旋線匝和該第一螺旋線匝連網；及一配置在該第二殼內用來使得該捲動構件相對於彼此運轉的驅動構件，其使得該螺旋線匝在一吸氣壓力帶和一流出壓力帶之間產生逐漸地改變大小的凹處。
+</claim-text>
+</claim>
+<claim num="16." dependency="dependent-claim">
+<claim-text>16.如申請專利範圍第15項之捲動機械，其中一潤滑油池被限定在該第一和該第二殼之間，且該捲動機械另包括一可運轉的從該油池抽出潤滑油的潤滑油泵。
+</claim-text>
+</claim>
+<claim num="17." dependency="dependent-claim">
+<claim-text>17.如申請專利範圍第16項之捲動機械，其中該潤滑油泵藉由該該驅動構件驅動。
+</claim-text>
+</claim>
+<claim num="18." dependency="dependent-claim">
+<claim-text>18.如申請專利範圍第15項之捲動機械，另包括至少一配置在該第一和第二殼之間的間隔件。
+</claim-text>
+</claim>
+<claim num="19." dependency="dependent-claim">
+<claim-text>19.如申請專利範圍第15項之捲動機械，其中該第一和
+第二殼是圓筒形的，該第一和第二殼被配置為共軸的。
+</claim-text>
+</claim>
+<claim num="20." dependency="dependent-claim">
+<claim-text>20.如申請專利範圍第15項之捲動機械，其中該第一和第二殼之每一限定一水平軸，該等軸為平行的。
+</claim-text>
+</claim>
+<claim num="21." dependency="dependent-claim">
+<claim-text>21.如申請專利範圍第20項之捲動機械，其中該等軸是共線的。
+</claim-text>
+</claim>
+</claims>
+<drawings lang="">
+<figure figure-labels="第1圖 ">
+<img id="i0001" he="0605" wi="0900" file="img-2/draw/090100440-a0305-03-0001-pic0000" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第2圖 ">
+<img id="i0002" he="0718" wi="0900" file="img-2/draw/090100440-a0305-03-0001-pic0001" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第3圖 ">
+<img id="i0003" he="0569" wi="0900" file="img-2/draw/090100440-a0305-03-0002-pic0000" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第4圖 ">
+<img id="i0004" he="0667" wi="0900" file="img-2/draw/090100440-a0305-03-0003-pic0000" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第5圖 ">
+<img id="i0005" he="0711" wi="0900" file="img-2/draw/090100440-a0305-03-0003-pic0001" img-content="drawing" img-format="gif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</invention-specification>
